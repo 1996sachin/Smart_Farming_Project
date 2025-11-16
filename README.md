@@ -11,7 +11,7 @@
 - Crop Recommendation
 - Fertilizer Recommendation
 - Rainfall Prediction
-- OTP Verification through mail
+- OTP Verification through mails
 - Agriculture realetd news using News API
 - Dynamically changing quotes using OpenAI's API
 - Weather Forecast upto 4 days using OpenWeatherMap API
@@ -77,4 +77,5 @@
 to retrain the model in future 
 cd /home/blink/smart-farming-advisor/farmer/ML/crop_recommendation
 python3 train_model.py
+
 
