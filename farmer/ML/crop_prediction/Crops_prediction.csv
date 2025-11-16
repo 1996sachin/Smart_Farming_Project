@@ -1,0 +1,2221 @@
+Province_Name,District_Name,Season,Crop
+Koshi,Bhojpur,Kharif,rice
+Koshi,Bhojpur,Kharif,Maize
+Koshi,Bhojpur,Kharif,Millet
+Koshi,Bhojpur,Kharif,Soybeans
+Koshi,Bhojpur,Kharif,Beans
+Koshi,Bhojpur,Kharif,Vegetables
+Koshi,Bhojpur,Kharif,Oil Seed
+Koshi,Bhojpur,Kharif,Sesame
+Koshi,Bhojpur,Kharif,Castor
+Koshi,Bhojpur,Kharif,Sunflower
+Koshi,Bhojpur,Rabi,Wheat
+Koshi,Bhojpur,Rabi,Barley
+Koshi,Bhojpur,Rabi,Mustard
+Koshi,Bhojpur,Rabi,Lentils
+Koshi,Bhojpur,Rabi,Peas
+Koshi,Bhojpur,Rabi,Potatoes
+Koshi,Bhojpur,Rabi,Cabbage and Cauliflower
+Koshi,Bhojpur,Rabi,Spinach
+Koshi,Bhojpur,Summer,Maize
+Koshi,Bhojpur,Summer,Millets
+Koshi,Bhojpur,Summer,Vegetables
+Koshi,Bhojpur,Summer,Chillies
+Koshi,Bhojpur,Summer,Sesame
+Koshi,Bhojpur,Summer,Foodder Crops
+Koshi,Dhankuta,Kharif,Black Gram(Urad Dal)
+Koshi,Dhankuta,Kharif,Green Gram(Moong Dal)
+Koshi,Dhankuta,Kharif,Cowpea
+Koshi,Dhankuta,Kharif,Sesame
+Koshi,Dhankuta,Kharif,Paddy Rice
+Koshi,Dhankuta,Kharif,Maize
+Koshi,Dhankuta,Kharif,"Millets(Finger Millet, pearl Millet)"
+Koshi,Dhankuta,Kharif,Soybeans
+Koshi,Dhankuta,Rabi,Wheat
+Koshi,Dhankuta,Rabi,Barley
+Koshi,Dhankuta,Rabi,Mustard
+Koshi,Dhankuta,Rabi,Lentils (Masoor Dal)
+Koshi,Dhankuta,Rabi,Chickpeas (Chana Dal)
+Koshi,Dhankuta,Rabi,Mustard Greens (Toriko Saag)
+Koshi,Dhankuta,Rabi,Radish (Mula)
+Koshi,Dhankuta,Rabi,Carrots (Gajar)
+Koshi,Dhankuta,Summer,Cucumbers (Khira)
+Koshi,Dhankuta,Summer,Tomatoes (Golbheda)
+Koshi,Dhankuta,Summer,Pumpkins (Farsi)
+Koshi,Dhankuta,Summer,Snake Gourd (Chichindo)
+Koshi,Dhankuta,Summer,Bitter Gourd (Tite Karela)
+Koshi,Dhankuta,Summer,Bottle Gourd (Lauka)
+Koshi,Dhankuta,Summer,Sponge Gourd (Ghingalo)
+Koshi,Dhankuta,Summer,Okra (Ladyfinger)
+Koshi,Dhankuta,Summer,Ginger
+Koshi,Dhankuta,Summer,Cardamom
+Koshi,Dhankuta,Summer,"Citrus Fruits (Oranges, Mandarins, Lemons)"
+Koshi,Dhankuta,Summer,Buckwheat
+Koshi,Dhankuta,Summer,Beans and Peas
+Koshi,Dhankuta,Summer,"Oilseeds (Sunflower, Linseed)"
+Koshi,Dhankuta,Summer,"Medicinal and Aromatic Plants (Lemongrass, Mint, Chamomile)"
+Koshi,Dhankuta,Summer,Bamboo
+Koshi,Sunsari,Kharif,Rice
+Koshi,Sunsari,Kharif,Maize
+Koshi,Sunsari,Kharif,Millet
+Koshi,Sunsari,Kharif,Soybeans
+Koshi,Sunsari,Kharif,Beans
+Koshi,Sunsari,Kharif,Vegetables
+Koshi,Sunsari,Kharif,Oilseeds
+Koshi,Sunsari,Kharif,Sesame
+Koshi,Sunsari,Kharif,Sunflower
+Koshi,Sunsari,Rabi,Wheat
+Koshi,Sunsari,Rabi,Barley
+Koshi,Sunsari,Rabi,Mustard
+Koshi,Sunsari,Rabi,Lentils
+Koshi,Sunsari,Rabi,Peas
+Koshi,Sunsari,Rabi,Potatoes
+Koshi,Sunsari,Rabi,Cabbage and Cauliflower
+Koshi,Sunsari,Rabi,Spinach
+Koshi,Sunsari,Summer,Chillies
+Koshi,Sunsari,Summer,Cucumber
+Koshi,Sunsari,Summer,Tomato
+Koshi,Sunsari,Summer,Pumpkin
+Koshi,Sunsari,Summer,Bitter Gourd
+Koshi,Sunsari,Summer,Bottle Gourd
+Koshi,Sunsari,Summer,Sponge Gourd
+Koshi,Sunsari,Summer,Okra
+Koshi,Sunsari,Summer,Ginger
+Koshi,Sunsari,Summer,Cardamom
+Koshi,Sunsari,Summer,Citrus Fruits
+Koshi,Morang,Kharif,Rice
+Koshi,Morang,Kharif,Maize
+Koshi,Morang,Kharif,Millet
+Koshi,Morang,Kharif,Soybeans
+Koshi,Morang,Kharif,Beans
+Koshi,Morang,Kharif,Vegetables
+Koshi,Morang,Kharif,Oilseeds
+Koshi,Morang,Kharif,Sesame
+Koshi,Morang,Kharif,Sunflower
+Koshi,Morang,Rabi,Wheat
+Koshi,Morang,Rabi,Barley
+Koshi,Morang,Rabi,Mustard
+Koshi,Morang,Rabi,Lentils
+Koshi,Morang,Rabi,Peas
+Koshi,Morang,Rabi,Potatoes
+Koshi,Sankhuwasabha,Kharif,Rice
+Koshi,Sankhuwasabha,Kharif,Maize
+Koshi,Sankhuwasabha,Kharif,Millet
+Koshi,Sankhuwasabha,Kharif,Soybeans
+Koshi,Sankhuwasabha,Kharif,Beans
+Koshi,Sankhuwasabha,Kharif,Vegetables
+Koshi,Sankhuwasabha,Kharif,Oilseeds
+Koshi,Sankhuwasabha,Kharif,Buckwheat
+Koshi,Sankhuwasabha,Rabi,Wheat
+Koshi,Sankhuwasabha,Rabi,Barley
+Koshi,Sankhuwasabha,Rabi,Mustard
+Koshi,Sankhuwasabha,Rabi,Lentils
+Koshi,Sankhuwasabha,Rabi,Potatoes
+Koshi,Sankhuwasabha,Rabi,Cabbage and Cauliflower
+Koshi,Sankhuwasabha,Rabi,Spinach
+Koshi,Sankhuwasabha,Summer,Chillies
+Koshi,Sankhuwasabha,Summer,Cucumber
+Koshi,Sankhuwasabha,Summer,Tomato
+Koshi,Sankhuwasabha,Summer,Pumpkin
+Koshi,Sankhuwasabha,Summer,Bitter Gourd
+Koshi,Sankhuwasabha,Summer,Bottle Gourd
+Koshi,Sankhuwasabha,Summer,Sponge Gourd
+Koshi,Sankhuwasabha,Summer,Okra
+Koshi,Sankhuwasabha,Summer,Ginger
+Koshi,Sankhuwasabha,Summer,Cardamom
+Koshi,Sankhuwasabha,Summer,Citrus Fruits
+Koshi,Terhathum,Kharif,Rice
+Koshi,Terhathum,Kharif,Maize
+Koshi,Terhathum,Kharif,Millet
+Koshi,Terhathum,Kharif,Soybeans
+Koshi,Terhathum,Kharif,Beans
+Koshi,Terhathum,Kharif,Vegetables
+Koshi,Terhathum,Kharif,Oilseeds
+Koshi,Terhathum,Kharif,Buckwheat
+Koshi,Terhathum,Rabi,Wheat
+Koshi,Terhathum,Rabi,Barley
+Koshi,Terhathum,Rabi,Mustard
+Koshi,Terhathum,Rabi,Lentils
+Koshi,Udayapur,Kharif,Rice
+Koshi,Udayapur,Kharif,Maize
+Koshi,Udayapur,Kharif,Millet
+Koshi,Udayapur,Kharif,Soybeans
+Koshi,Udayapur,Kharif,Beans
+Koshi,Udayapur,Kharif,Vegetables
+Koshi,Udayapur,Kharif,Oilseeds
+Koshi,Udayapur,Rabi,Wheat
+Koshi,Udayapur,Rabi,Barley
+Koshi,Udayapur,Rabi,Mustard
+Koshi,Udayapur,Rabi,Lentils
+Koshi,Udayapur,Rabi,Potatoes
+Koshi,Udayapur,Rabi,Cabbage and Cauliflower
+Koshi,Udayapur,Rabi,Spinach
+Koshi,Udayapur,Summer,Chillies
+Koshi,Udayapur,Summer,Cucumber
+Koshi,Udayapur,Summer,Tomato
+Koshi,Udayapur,Summer,Pumpkin
+Koshi,Udayapur,Summer,Bitter Gourd
+Koshi,Udayapur,Summer,Bottle Gourd
+Koshi,Udayapur,Summer,Sponge Gourd
+Koshi,Udayapur,Summer,Okra
+Koshi,Udayapur,Summer,Ginger
+Koshi,Udayapur,Summer,Cardamom
+Koshi,Udayapur,Summer,Citrus Fruits
+Koshi,Saptari,Kharif,Rice
+Koshi,Saptari,Kharif,Maize
+Koshi,Saptari,Kharif,Millet
+Koshi,Saptari,Kharif,Soybeans
+Koshi,Saptari,Kharif,Beans
+Koshi,Saptari,Kharif,Vegetables
+Koshi,Saptari,Kharif,Oilseeds
+Koshi,Saptari,Kharif,Sesame
+Koshi,Saptari,Kharif,Sunflower
+Koshi,Saptari,Rabi,Wheat
+Koshi,Saptari,Rabi,Barley
+Koshi,Saptari,Rabi,Mustard
+Koshi,Saptari,Rabi,Lentils
+Koshi,Saptari,Rabi,Peas
+Koshi,Saptari,Rabi,Potatoes
+Koshi,Saptari,Rabi,Cabbage and Cauliflower
+Koshi,Saptari,Rabi,Spinach
+Koshi,Saptari,Summer,Chillies
+Koshi,Saptari,Summer,Cucumber
+Koshi,Saptari,Summer,Tomato
+Koshi,Saptari,Summer,Pumpkin
+Koshi,Saptari,Summer,Bitter Gourd
+Koshi,Saptari,Summer,Bottle Gourd
+Koshi,Saptari,Summer,Sponge Gourd
+Koshi,Saptari,Summer,Okra
+Koshi,Saptari,Summer,Ginger
+Koshi,Saptari,Summer,Cardamom
+Koshi,Saptari,Summer,Citrus Fruits
+Koshi,Siraha,Kharif,Rice
+Koshi,Siraha,Kharif,Maize
+Koshi,Siraha,Kharif,Millet
+Koshi,Siraha,Kharif,Soybeans
+Koshi,Siraha,Kharif,Beans
+Koshi,Siraha,Kharif,Vegetables
+Koshi,Siraha,Kharif,Oilseeds
+Koshi,Siraha,Kharif,Sesame
+Koshi,Siraha,Kharif,Sunflower
+Koshi,Siraha,Rabi,Wheat
+Koshi,Siraha,Rabi,Barley
+Koshi,Siraha,Rabi,Mustard
+Koshi,Siraha,Rabi,Lentils
+Koshi,Siraha,Rabi,Peas
+Koshi,Siraha,Rabi,Potatoes
+Koshi,Siraha,Rabi,Cabbage and Cauliflower
+Koshi,Siraha,Rabi,Spinach
+Koshi,Siraha,Summer,Chillies
+Koshi,Siraha,Summer,Cucumber
+Koshi,Siraha,Summer,Tomato
+Koshi,Siraha,Summer,Pumpkin
+Koshi,Siraha,Summer,Bitter Gourd
+Koshi,Dhankuta,Rabi,Potatoes
+Koshi,Dhankuta,Rabi,Cabbage and Cauliflower
+Koshi,Dhankuta,Rabi,Spinach
+Koshi,Dhankuta,Summer,Chillies
+Koshi,Dhankuta,Summer,Cucumber
+Koshi,Dhankuta,Summer,Tomato
+Koshi,Dhankuta,Summer,Pumpkin
+Koshi,Dhankuta,Summer,Bitter Gourd
+Koshi,Dhankuta,Summer,Bottle Gourd
+Koshi,Dhankuta,Summer,Sponge Gourd
+Koshi,Dhankuta,Summer,Okra
+Koshi,Dhankuta,Summer,Citrus Fruits
+Koshi,Tehrathum,Kharif,Rice
+Koshi,Tehrathum,Kharif,Maize
+Koshi,Tehrathum,Kharif,Millet
+Koshi,Tehrathum,Kharif,Soybeans
+Koshi,Tehrathum,Kharif,Beans
+Koshi,Tehrathum,Kharif,Vegetables
+Koshi,Tehrathum,Kharif,Oilseeds
+Koshi,Tehrathum,Kharif,Sesame
+Koshi,Tehrathum,Kharif,Sunflower
+Koshi,Tehrathum,Rabi,Wheat
+Koshi,Tehrathum,Rabi,Barley
+Koshi,Tehrathum,Rabi,Mustard
+Koshi,Tehrathum,Rabi,Lentils
+Koshi,Tehrathum,Rabi,Potatoes
+Koshi,Tehrathum,Rabi,Cabbage and Cauliflower
+Koshi,Tehrathum,Rabi,Spinach
+Koshi,Tehrathum,Summer,Chillies
+Koshi,Tehrathum,Summer,Cucumber
+Koshi,Tehrathum,Summer,Tomato
+Koshi,Tehrathum,Summer,Pumpkin
+Koshi,Tehrathum,Summer,Bitter Gourd
+Koshi,Tehrathum,Summer,Bottle Gourd
+Koshi,Tehrathum,Summer,Sponge Gourd
+Koshi,Tehrathum,Summer,Okra
+Koshi,Tehrathum,Summer,Ginger
+Koshi,Tehrathum,Summer,Cardamom
+Koshi,Tehrathum,Summer,Citrus
+Koshi,Taplejung,Kharif,Rice
+Koshi,Taplejung,Kharif,Maize
+Koshi,Taplejung,Kharif,Millet
+Koshi,Taplejung,Kharif,Soybeans
+Koshi,Taplejung,Kharif,Beans
+Koshi,Taplejung,Kharif,Vegetables
+Koshi,Taplejung,Kharif,Oilseeds
+Koshi,Taplejung,Kharif,Sesame
+Koshi,Taplejung,Kharif,Sunflower
+Koshi,Taplejung,Rabi,Wheat
+Koshi,Taplejung,Rabi,Barley
+Koshi,Taplejung,Rabi,Mustard
+Koshi,Taplejung,Rabi,Lentils
+Koshi,Taplejung,Rabi,Potatoes
+Koshi,Taplejung,Rabi,Cabbage and Cauliflower
+Koshi,Taplejung,Rabi,Spinach
+Koshi,Taplejung,Summer,Chillies
+Koshi,Taplejung,Summer,Cucumber
+Koshi,Taplejung,Summer,Tomato
+Koshi,Taplejung,Summer,Pumpkin
+Koshi,Taplejung,Summer,Bitter Gourd
+Koshi,Taplejung,Summer,Bottle Gourd
+Koshi,Taplejung,Summer,Sponge Gourd
+Koshi,Taplejung,Summer,Okra
+Koshi,Taplejung,Summer,Ginger
+Koshi,Taplejung,Summer,Cardamom
+Koshi,Taplejung,Summer,Citrus Fruits
+Koshi,Solukhumbu,Kharif,Rice
+Koshi,Solukhumbu,Kharif,Maize
+Koshi,Solukhumbu,Kharif,Millet
+Koshi,Solukhumbu,Kharif,Soybeans
+Koshi,Solukhumbu,Kharif,Beans
+Koshi,Solukhumbu,Kharif,Vegetables
+Koshi,Solukhumbu,Kharif,Oilseeds
+Koshi,Solukhumbu,Kharif,Sesame
+Koshi,Solukhumbu,Kharif,Sunflower
+Koshi,Solukhumbu,Rabi,Wheat
+Koshi,Solukhumbu,Rabi,Barley
+Koshi,Solukhumbu,Rabi,Mustard
+Koshi,Solukhumbu,Rabi,Lentils
+Koshi,Solukhumbu,Rabi,Potatoes
+Koshi,Solukhumbu,Rabi,Cabbage and Cauliflower
+Koshi,Solukhumbu,Rabi,Spinach
+Koshi,Solukhumbu,Summer,Chillies
+Koshi,Solukhumbu,Summer,Cucumber
+Koshi,Solukhumbu,Summer,Tomato
+Koshi,Solukhumbu,Summer,Pumpkin
+Koshi,Solukhumbu,Summer,Bitter Gourd
+Koshi,Solukhumbu,Summer,Bottle Gourd
+Koshi,Solukhumbu,Summer,Sponge Gourd
+Koshi,Solukhumbu,Summer,Okra
+Koshi,Solukhumbu,Summer,Ginger
+Koshi,Solukhumbu,Summer,Cardamom
+Koshi,Solukhumbu,Summer,Citrus Fruits
+Koshi,Panchthar,Kharif,Rice
+Koshi,Panchthar,Kharif,Maize
+Koshi,Panchthar,Kharif,Millet
+Koshi,Panchthar,Kharif,Soybeans
+Koshi,Panchthar,Kharif,Beans
+Koshi,Panchthar,Kharif,Vegetables
+Koshi,Panchthar,Kharif,Oilseeds
+Koshi,Panchthar,Kharif,Sesame
+Koshi,Panchthar,Kharif,Sunflower
+Koshi,Panchthar,Rabi,Wheat
+Koshi,Panchthar,Rabi,Barley
+Koshi,Panchthar,Rabi,Mustard
+Koshi,Panchthar,Rabi,Lentils
+Koshi,Panchthar,Rabi,Potatoes
+Koshi,Panchthar,Rabi,Cabbage and Cauliflower
+Koshi,Panchthar,Rabi,Spinach
+Koshi,Panchthar,Summer,Chillies
+Koshi,Panchthar,Summer,Cucumber
+Koshi,Panchthar,Summer,Tomato
+Koshi,Panchthar,Summer,Pumpkin
+Koshi,Panchthar,Summer,Bitter Gourd
+Koshi,Panchthar,Summer,Bottle Gourd
+Koshi,Panchthar,Summer,Sponge Gourd
+Koshi,Panchthar,Summer,Okra
+Koshi,Panchthar,Summer,Ginger
+Koshi,Panchthar,Summer,Cardamom
+Koshi,Panchthar,Summer,Citrus Fruits
+Koshi,Okhaldhunga,Kharif,Rice
+Koshi,Okhaldhunga,Kharif,Maize
+Koshi,Okhaldhunga,Kharif,Millet
+Koshi,Okhaldhunga,Kharif,Soybeans
+Koshi,Okhaldhunga,Kharif,Beans
+Koshi,Okhaldhunga,Kharif,Vegetables
+Koshi,Okhaldhunga,Kharif,Oilseeds
+Koshi,Okhaldhunga,Kharif,Sesame
+Koshi,Okhaldhunga,Kharif,Sunflower
+Koshi,Okhaldhunga,Rabi,Wheat
+Koshi,Okhaldhunga,Rabi,Barley
+Koshi,Okhaldhunga,Rabi,Mustard
+Koshi,Okhaldhunga,Rabi,Lentils
+Koshi,Okhaldhunga,Rabi,Potatoes
+Koshi,Okhaldhunga,Rabi,Cabbage and Cauliflower
+Koshi,Okhaldhunga,Rabi,Spinach
+Koshi,Okhaldhunga,Summer,Chillies
+Koshi,Okhaldhunga,Summer,Cucumber
+Koshi,Okhaldhunga,Summer,Tomato
+Koshi,Okhaldhunga,Summer,Pumpkin
+Koshi,Okhaldhunga,Summer,Bitter Gourd
+Koshi,Okhaldhunga,Summer,Bottle Gourd
+Koshi,Okhaldhunga,Summer,Sponge Gourd
+Koshi,Okhaldhunga,Summer,Okra
+Koshi,Okhaldhunga,Summer,Ginger
+Koshi,Okhaldhunga,Summer,Cardamom
+Koshi,Okhaldhunga,Summer,Citrus Fruits
+Koshi,Khotang,Kharif,Rice
+Koshi,Khotang,Kharif,Maize
+Koshi,Khotang,Kharif,Millet
+Koshi,Khotang,Kharif,Soybeans
+Koshi,Khotang,Kharif,Beans
+Koshi,Khotang,Kharif,Vegetables
+Koshi,Khotang,Kharif,Oilseeds
+Koshi,Khotang,Kharif,Sesame
+Koshi,Khotang,Kharif,Sunflower
+Koshi,Khotang,Rabi,Wheat
+Koshi,Khotang,Rabi,Barley
+Koshi,Khotang,Rabi,Mustard
+Koshi,Khotang,Rabi,Lentils
+Koshi,Khotang,Rabi,Potatoes
+Koshi,Khotang,Rabi,Cabbage and Cauliflower
+Koshi,Khotang,Rabi,Spinach
+Koshi,Khotang,Summer,Chillies
+Koshi,Khotang,Summer,Cucumber
+Koshi,Khotang,Summer,Tomato
+Koshi,Khotang,Summer,Pumpkin
+Koshi,Khotang,Summer,Bitter Gourd
+Koshi,Khotang,Summer,Bottle Gourd
+Koshi,Khotang,Summer,Sponge Gourd
+Koshi,Khotang,Summer,Okra
+Koshi,Khotang,Summer,Ginger
+Koshi,Khotang,Summer,Cardamom
+Koshi,Khotang,Summer,Citrus Fruits
+Koshi,Ilam,Kharif,Rice
+Koshi,Ilam,Kharif,Maize
+Koshi,Ilam,Kharif,Millet
+Koshi,Ilam,Kharif,Soybeans
+Koshi,Ilam,Kharif,Beans
+Koshi,Ilam,Kharif,Vegetables
+Koshi,Ilam,Kharif,Oilseeds
+Koshi,Ilam,Kharif,Sesame
+Koshi,Ilam,Kharif,Sunflower
+Koshi,Ilam,Rabi,Wheat
+Koshi,Ilam,Rabi,Barley
+Koshi,Ilam,Rabi,Mustard
+Koshi,Ilam,Rabi,Lentils
+Koshi,Ilam,Rabi,Potatoes
+Koshi,Ilam,Rabi,Cabbage and Cauliflower
+Koshi,Ilam,Rabi,Spinach
+Koshi,Ilam,Summer,Chillies
+Koshi,Ilam,Summer,Cucumber
+Koshi,Ilam,Summer,Tomato
+Koshi,Ilam,Summer,Pumpkin
+Koshi,Ilam,Summer,Bitter Gourd
+Koshi,Ilam,Summer,Bottle Gourd
+Koshi,Ilam,Summer,Sponge Gourd
+Koshi,Ilam,Summer,Okra
+Koshi,Ilam,Summer,Ginger
+Koshi,Ilam,Summer,Cardamom
+Koshi,Ilam,Summer,Citrus Fruits
+Koshi,Jhapa,Kharif,Rice
+Koshi,Jhapa,Kharif,Maize
+Koshi,Jhapa,Kharif,Millet
+Koshi,Jhapa,Kharif,Soybeans
+Koshi,Jhapa,Kharif,Beans
+Koshi,Jhapa,Kharif,Vegetables
+Koshi,Jhapa,Kharif,Oilseeds
+Koshi,Jhapa,Kharif,Sesame
+Koshi,Jhapa,Kharif,Sunflower
+Koshi,Jhapa,Rabi,Wheat
+Koshi,Jhapa,Rabi,Barley
+Koshi,Jhapa,Rabi,Mustard
+Koshi,Jhapa,Rabi,Lentils
+Koshi,Jhapa,Rabi,Potatoes
+Koshi,Jhapa,Rabi,Cabbage and Cauliflower
+Koshi,Jhapa,Rabi,Spinach
+Koshi,Jhapa,Summer,Chillies
+Koshi,Jhapa,Summer,Cucumber
+Koshi,Jhapa,Summer,Tomato
+Koshi,Jhapa,Summer,Pumpkin
+Koshi,Jhapa,Summer,Bitter Gourd
+Koshi,Jhapa,Summer,Bottle Gourd
+Koshi,Jhapa,Summer,Sponge Gourd
+Koshi,Jhapa,Summer,Okra
+Koshi,Jhapa,Summer,Ginger
+Koshi,Jhapa,Summer,Cardamom
+Koshi,Jhapa,Summer,Citrus Fruits
+Madhesh,Saptari,Kharif,Rice
+Madhesh,Saptari,Kharif,Maize
+Madhesh,Saptari,Kharif,Millet
+Madhesh,Saptari,Kharif,Sorghum
+Madhesh,Saptari,Kharif,Pigeon pea
+Madhesh,Saptari,Kharif,Black gram (Urad dal)
+Madhesh,Saptari,Kharif,Green gram (Moong dal)
+Madhesh,Saptari,Kharif,Soybean
+Madhesh,Saptari,Kharif,Sesame
+Madhesh,Saptari,Kharif,Groundnut
+Madhesh,Saptari,Kharif,Sunflower
+Madhesh,Saptari,Kharif,Cowpea
+Madhesh,Saptari,Kharif,Kidney beans (Rajma)
+Madhesh,Saptari,Kharif,Okra (Lady's finger)
+Madhesh,Saptari,Kharif,Bottle gourd
+Madhesh,Saptari,Kharif,Bitter gourd
+Madhesh,Saptari,Kharif,Snake gourd
+Madhesh,Saptari,Kharif,Pumpkin
+Madhesh,Saptari,Kharif,Watermelon
+Madhesh,Saptari,Kharif,Muskmelon
+Madhesh,Saptari,Kharif,Cucumber
+Madhesh,Saptari,Kharif,Sweet potato
+Madhesh,Saptari,Kharif,Indian spinach (Malabar spinach)
+Madhesh,Saptari,Kharif,Amaranth
+Madhesh,Saptari,Kharif,Indian mustard (Sarson)
+Madhesh,Saptari,Summer,Rice (some varieties)
+Madhesh,Saptari,Summer,Maize
+Madhesh,Saptari,Summer,Watermelon
+Madhesh,Saptari,Summer,Muskmelon
+Madhesh,Saptari,Summer,Cucumber
+Madhesh,Saptari,Summer,Bottle gourd
+Madhesh,Saptari,Summer,Bitter gourd
+Madhesh,Saptari,Summer,Snake gourd
+Madhesh,Saptari,Summer,Pumpkin
+Madhesh,Saptari,Summer,Sponge gourd
+Madhesh,Saptari,Summer,Okra (Lady's finger)
+Madhesh,Saptari,Summer,Green chili
+Madhesh,Saptari,Summer,Eggplant (Brinjal)
+Madhesh,Saptari,Summer,Tomato
+Madhesh,Saptari,Summer,Capsicum (Bell pepper)
+Madhesh,Saptari,Summer,Amaranth
+Madhesh,Saptari,Summer,Indian spinach (Malabar spinach)
+Madhesh,Saptari,Summer,Cucurbits like ridge gourd and sponge gourd
+Madhesh,Saptari,Summer,Cowpea
+Madhesh,Saptari,Summer,Yardlong bean (Snake bean)
+Madhesh,Saptari,Rabi,Wheat
+Madhesh,Saptari,Rabi,Barley
+Madhesh,Saptari,Rabi,Mustard
+Madhesh,Saptari,Rabi,Lentils
+Madhesh,Saptari,Rabi,Chickpeas
+Madhesh,Saptari,Rabi,Peas
+Madhesh,Saptari,Rabi,Potatoes
+Madhesh,Saptari,Rabi,Onions
+Madhesh,Saptari,Rabi,Garlic
+Madhesh,Saptari,Rabi,Cabbage
+Madhesh,Saptari,Rabi,Cauliflower
+Madhesh,Saptari,Rabi,Carrots
+Madhesh,Saptari,Rabi,Radishes
+Madhesh,Saptari,Rabi,Spinach
+Madhesh,Saptari,Rabi,Fenugreek
+Madhesh,Saptari,Rabi,Coriander
+Madhesh,Saptari,Rabi,Fennel
+Madhesh,Saptari,Rabi,Turnips
+Madhesh,Saptari,Rabi,Lettuce
+Madhesh,Saptari,Rabi,Beetroot
+Madhesh,Siraha,Kharif,Rice
+Madhesh,Siraha,Kharif,Maize
+Madhesh,Siraha,Kharif,Millet
+Madhesh,Siraha,Kharif,Sorghum
+Madhesh,Siraha,Kharif,Pigeon pea
+Madhesh,Siraha,Kharif,Black gram (Urad dal)
+Madhesh,Siraha,Kharif,Green gram (Moong dal)
+Madhesh,Siraha,Kharif,Soybean
+Madhesh,Siraha,Kharif,Sesame
+Madhesh,Siraha,Kharif,Groundnut
+Madhesh,Siraha,Kharif,Sunflower
+Madhesh,Siraha,Rabi,Wheat
+Madhesh,Siraha,Rabi,Barley
+Madhesh,Siraha,Rabi,Mustard
+Madhesh,Siraha,Rabi,Lentils
+Madhesh,Siraha,Rabi,Chickpeas
+Madhesh,Siraha,Rabi,Peas
+Madhesh,Siraha,Rabi,Potatoes
+Madhesh,Siraha,Rabi,Onions
+Madhesh,Siraha,Rabi,Garlic
+Madhesh,Siraha,Rabi,Cabbage
+Madhesh,Siraha,Rabi,Cauliflower
+Madhesh,Siraha,Rabi,Carrots
+Madhesh,Siraha,Rabi,Radishes
+Madhesh,Siraha,Rabi,Spinach
+Madhesh,Siraha,Rabi,Fenugreek
+Madhesh,Siraha,Rabi,Coriander
+Madhesh,Siraha,Rabi,Fennel
+Madhesh,Siraha,Rabi,Turnips
+Madhesh,Siraha,Rabi,Lettuce
+Madhesh,Siraha,Rabi,Beetroot
+Madhesh,Siraha,Summer,Rice (some varieties can be grown in the summer season)
+Madhesh,Siraha,Summer,Maize
+Madhesh,Siraha,Summer,Watermelon
+Madhesh,Siraha,Summer,Muskmelon
+Madhesh,Siraha,Summer,Cucumber
+Madhesh,Siraha,Summer,Bottle gourd
+Madhesh,Siraha,Summer,Bitter gourd
+Madhesh,Siraha,Summer,Snake gourd
+Madhesh,Siraha,Summer,Pumpkin
+Madhesh,Siraha,Summer,Sponge gourd
+Madhesh,Siraha,Summer,Okra (Lady's finger)
+Madhesh,Siraha,Summer,Green chili
+Madhesh,Siraha,Summer,Eggplant (Brinjal)
+Madhesh,Siraha,Summer,Tomato
+Madhesh,Siraha,Summer,Capsicum (Bell pepper)
+Madhesh,Siraha,Summer,Amaranth
+Madhesh,Siraha,Summer,Indian spinach (Malabar spinach)
+Madhesh,Siraha,Summer,Cucurbits like ridge gourd and sponge gourd
+Madhesh,Siraha,Summer,Cowpea
+Madhesh,Siraha,Summer,Yardlong bean (Snake bean)
+Madhesh,Dhanusa,Kharif,Rice
+Madhesh,Dhanusa,Kharif,Maize
+Madhesh,Dhanusa,Kharif,Millet
+Madhesh,Dhanusa,Kharif,Sorghum
+Madhesh,Dhanusa,Kharif,Pigeon pea
+Madhesh,Dhanusa,Kharif,Black gram (Urad dal)
+Madhesh,Dhanusa,Kharif,Green gram (Moong dal)
+Madhesh,Dhanusa,Kharif,Soybean
+Madhesh,Dhanusa,Kharif,Sesame
+Madhesh,Dhanusa,Kharif,Groundnut
+Madhesh,Dhanusa,Kharif,Sunflower
+Madhesh,Dhanusa,Rabi,Wheat
+Madhesh,Dhanusa,Rabi,Barley
+Madhesh,Dhanusa,Rabi,Mustard
+Madhesh,Dhanusa,Rabi,Lentils
+Madhesh,Dhanusa,Rabi,Chickpeas
+Madhesh,Dhanusa,Rabi,Peas
+Madhesh,Dhanusa,Rabi,Potatoes
+Madhesh,Dhanusa,Rabi,Onions
+Madhesh,Dhanusa,Rabi,Garlic
+Madhesh,Dhanusa,Rabi,Cabbage
+Madhesh,Dhanusa,Rabi,Cauliflower
+Madhesh,Dhanusa,Rabi,Carrots
+Madhesh,Dhanusa,Rabi,Radishes
+Madhesh,Dhanusa,Rabi,Spinach
+Madhesh,Dhanusa,Rabi,Fenugreek
+Madhesh,Dhanusa,Rabi,Coriander
+Madhesh,Dhanusa,Rabi,Fennel
+Madhesh,Dhanusa,Rabi,Turnips
+Madhesh,Dhanusa,Rabi,Lettuce
+Madhesh,Dhanusa,Rabi,Beetroot
+Madhesh,Dhanusa,Summer,Rice (some varieties can be grown in the summer season)
+Madhesh,Dhanusa,Summer,Maize
+Madhesh,Dhanusa,Summer,Watermelon
+Madhesh,Dhanusa,Summer,Muskmelon
+Madhesh,Dhanusa,Summer,Cucumber
+Madhesh,Dhanusa,Summer,Bottle gourd
+Madhesh,Dhanusa,Summer,Bitter gourd
+Madhesh,Dhanusa,Summer,Snake gourd
+Madhesh,Dhanusa,Summer,Pumpkin
+Madhesh,Dhanusa,Summer,Sponge gourd
+Madhesh,Dhanusa,Summer,Okra (Lady's finger)
+Madhesh,Dhanusa,Summer,Green chili
+Madhesh,Dhanusa,Summer,Eggplant (Brinjal)
+Madhesh,Dhanusa,Summer,Tomato
+Madhesh,Dhanusa,Summer,Capsicum (Bell pepper)
+Madhesh,Dhanusa,Summer,Amaranth
+Madhesh,Dhanusa,Summer,Indian spinach (Malabar spinach)
+Madhesh,Dhanusa,Summer,Cucurbits like ridge gourd and sponge gourd
+Madhesh,Dhanusa,Summer,Cowpea
+Madhesh,Dhanusa,Summer,Yardlong bean (Snake bean)
+Madhesh,Mahottari,Kharif,Rice
+Madhesh,Mahottari,Kharif,Maize
+Madhesh,Mahottari,Kharif,Millet
+Madhesh,Mahottari,Kharif,Sorghum
+Madhesh,Mahottari,Kharif,Pigeon pea
+Madhesh,Mahottari,Kharif,Black gram (Urad dal)
+Madhesh,Mahottari,Kharif,Green gram (Moong dal)
+Madhesh,Mahottari,Kharif,Soybean
+Madhesh,Mahottari,Kharif,Sesame
+Madhesh,Mahottari,Kharif,Groundnut
+Madhesh,Mahottari,Kharif,Sunflower
+Madhesh,Mahottari,Rabi,Wheat
+Madhesh,Mahottari,Rabi,Barley
+Madhesh,Mahottari,Rabi,Mustard
+Madhesh,Mahottari,Rabi,Lentils
+Madhesh,Mahottari,Rabi,Chickpeas
+Madhesh,Mahottari,Rabi,Peas
+Madhesh,Mahottari,Rabi,Potatoes
+Madhesh,Mahottari,Rabi,Onions
+Madhesh,Mahottari,Rabi,Garlic
+Madhesh,Mahottari,Rabi,Cabbage
+Madhesh,Mahottari,Rabi,Cauliflower
+Madhesh,Mahottari,Rabi,Carrots
+Madhesh,Mahottari,Rabi,Radishes
+Madhesh,Mahottari,Rabi,Spinach
+Madhesh,Mahottari,Rabi,Fenugreek
+Madhesh,Mahottari,Rabi,Coriander
+Madhesh,Mahottari,Rabi,Fennel
+Madhesh,Mahottari,Rabi,Turnips
+Madhesh,Mahottari,Rabi,Lettuce
+Madhesh,Mahottari,Rabi,Beetroot
+Madhesh,Mahottari,Summer,Rice (some varieties can be grown in the summer season)
+Madhesh,Mahottari,Summer,Maize
+Madhesh,Mahottari,Summer,Watermelon
+Madhesh,Mahottari,Summer,Muskmelon
+Madhesh,Mahottari,Summer,Cucumber
+Madhesh,Mahottari,Summer,Bottle gourd
+Madhesh,Mahottari,Summer,Bitter gourd
+Madhesh,Mahottari,Summer,Snake gourd
+Madhesh,Mahottari,Summer,Pumpkin
+Madhesh,Mahottari,Summer,Sponge gourd
+Madhesh,Mahottari,Summer,Okra (Lady's finger)
+Madhesh,Mahottari,Summer,Green chili
+Madhesh,Mahottari,Summer,Eggplant (Brinjal)
+Madhesh,Mahottari,Summer,Tomato
+Madhesh,Mahottari,Summer,Capsicum (Bell pepper)
+Madhesh,Mahottari,Summer,Amaranth
+Madhesh,Mahottari,Summer,Indian spinach (Malabar spinach)
+Madhesh,Mahottari,Summer,Cucurbits like ridge gourd and sponge gourd
+Madhesh,Mahottari,Summer,Cowpea
+Madhesh,Mahottari,Summer,Yardlong bean (Snake bean)
+Madhesh,Sarlahi,Kharif,Rice
+Madhesh,Sarlahi,Kharif,Maize
+Madhesh,Sarlahi,Kharif,Millet
+Madhesh,Sarlahi,Kharif,Sorghum
+Madhesh,Sarlahi,Kharif,Pigeon pea
+Madhesh,Sarlahi,Kharif,Black gram (Urad dal)
+Madhesh,Sarlahi,Kharif,Green gram (Moong dal)
+Madhesh,Sarlahi,Kharif,Soybean
+Madhesh,Sarlahi,Kharif,Sesame
+Madhesh,Sarlahi,Kharif,Groundnut
+Madhesh,Sarlahi,Kharif,Sunflower
+Madhesh,Sarlahi,Rabi,Wheat
+Madhesh,Sarlahi,Rabi,Barley
+Madhesh,Sarlahi,Rabi,Mustard
+Madhesh,Sarlahi,Rabi,Lentils
+Madhesh,Sarlahi,Rabi,Chickpeas
+Madhesh,Sarlahi,Rabi,Peas
+Madhesh,Sarlahi,Rabi,Potatoes
+Madhesh,Sarlahi,Rabi,Onions
+Madhesh,Sarlahi,Rabi,Garlic
+Madhesh,Sarlahi,Rabi,Cabbage
+Madhesh,Sarlahi,Rabi,Cauliflower
+Madhesh,Sarlahi,Rabi,Carrots
+Madhesh,Sarlahi,Rabi,Radishes
+Madhesh,Sarlahi,Rabi,Spinach
+Madhesh,Sarlahi,Rabi,Fenugreek
+Madhesh,Sarlahi,Rabi,Coriander
+Madhesh,Sarlahi,Rabi,Fennel
+Madhesh,Sarlahi,Rabi,Turnips
+Madhesh,Sarlahi,Rabi,Lettuce
+Madhesh,Sarlahi,Rabi,Beetroot
+Madhesh,Sarlahi,Summer,Maize
+Madhesh,Sarlahi,Summer,Watermelon
+Madhesh,Sarlahi,Summer,Muskmelon
+Madhesh,Sarlahi,Summer,Cucumber
+Madhesh,Sarlahi,Summer,Bottle gourd
+Madhesh,Sarlahi,Summer,Bitter gourd
+Madhesh,Sarlahi,Summer,Snake gourd
+Madhesh,Sarlahi,Summer,Pumpkin
+Madhesh,Sarlahi,Summer,Sponge gourd
+Madhesh,Sarlahi,Summer,Okra (Lady's finger)
+Madhesh,Sarlahi,Summer,Green chili
+Madhesh,Sarlahi,Summer,Eggplant (Brinjal)
+Madhesh,Sarlahi,Summer,Tomato
+Madhesh,Sarlahi,Summer,Capsicum (Bell pepper)
+Madhesh,Sarlahi,Summer,Amaranth
+Madhesh,Sarlahi,Summer,Indian spinach (Malabar spinach)
+Madhesh,Sarlahi,Summer,Cowpea
+Madhesh,Sarlahi,Summer,Yardlong bean (Snake bean)
+Madhesh,Sarlahi,Summer,Ridge gourd
+Madhesh,Bara,Kharif,Rice
+Madhesh,Bara,Kharif,Maize
+Madhesh,Bara,Kharif,Millet
+Madhesh,Bara,Kharif,Sorghum
+Madhesh,Bara,Kharif,Pigeon pea
+Madhesh,Bara,Kharif,Black gram (Urad dal)
+Madhesh,Bara,Kharif,Green gram (Moong dal)
+Madhesh,Bara,Kharif,Soybean
+Madhesh,Bara,Kharif,Sesame
+Madhesh,Bara,Kharif,Groundnut
+Madhesh,Bara,Kharif,Sunflower
+Madhesh,Bara,Rabi,Wheat
+Madhesh,Bara,Rabi,Barley
+Madhesh,Bara,Rabi,Mustard
+Madhesh,Bara,Rabi,Lentils
+Madhesh,Bara,Rabi,Chickpeas
+Madhesh,Bara,Rabi,Peas
+Madhesh,Bara,Rabi,Potatoes
+Madhesh,Bara,Rabi,Onions
+Madhesh,Bara,Rabi,Garlic
+Madhesh,Bara,Rabi,Cabbage
+Madhesh,Bara,Rabi,Cauliflower
+Madhesh,Bara,Rabi,Carrots
+Madhesh,Bara,Rabi,Radishes
+Madhesh,Bara,Rabi,Spinach
+Madhesh,Bara,Rabi,Fenugreek
+Madhesh,Bara,Rabi,Coriander
+Madhesh,Bara,Rabi,Fennel
+Madhesh,Bara,Rabi,Turnips
+Madhesh,Bara,Rabi,Lettuce
+Madhesh,Bara,Rabi,Beetroot
+Madhesh,Bara,Summer,Maize
+Madhesh,Bara,Summer,Watermelon
+Madhesh,Bara,Summer,Muskmelon
+Madhesh,Bara,Summer,Cucumber
+Madhesh,Bara,Summer,Bottle gourd
+Madhesh,Bara,Summer,Bitter gourd
+Madhesh,Bara,Summer,Snake gourd
+Madhesh,Bara,Summer,Pumpkin
+Madhesh,Bara,Summer,Sponge gourd
+Madhesh,Bara,Summer,Okra (Lady's finger)
+Madhesh,Bara,Summer,Green chili
+Madhesh,Bara,Summer,Eggplant (Brinjal)
+Madhesh,Bara,Summer,Tomato
+Madhesh,Bara,Summer,Capsicum (Bell pepper)
+Madhesh,Bara,Summer,Amaranth
+Madhesh,Bara,Summer,Indian spinach (Malabar spinach)
+Madhesh,Bara,Summer,Cowpea
+Madhesh,Bara,Summer,Yardlong bean (Snake bean)
+Madhesh,Bara,Summer,Ridge gourd
+Madhesh,Parsa,Kharif,Rice
+Madhesh,Parsa,Kharif,Maize
+Madhesh,Parsa,Kharif,Millet
+Madhesh,Parsa,Kharif,Sorghum
+Madhesh,Parsa,Kharif,Pigeon pea
+Madhesh,Parsa,Kharif,Black gram (Urad dal)
+Madhesh,Parsa,Kharif,Green gram (Moong dal)
+Madhesh,Parsa,Kharif,Soybean
+Madhesh,Parsa,Kharif,Sesame
+Madhesh,Parsa,Kharif,Groundnut
+Madhesh,Parsa,Kharif,Sunflower
+Madhesh,Parsa,Rabi,Wheat
+Madhesh,Parsa,Rabi,Barley
+Madhesh,Parsa,Rabi,Mustard
+Madhesh,Parsa,Rabi,Lentils
+Madhesh,Parsa,Rabi,Chickpeas
+Madhesh,Parsa,Rabi,Peas
+Madhesh,Parsa,Rabi,Potatoes
+Madhesh,Parsa,Rabi,Onions
+Madhesh,Parsa,Rabi,Garlic
+Madhesh,Parsa,Rabi,Cabbage
+Madhesh,Parsa,Rabi,Cauliflower
+Madhesh,Parsa,Rabi,Carrots
+Madhesh,Parsa,Rabi,Radishes
+Madhesh,Parsa,Rabi,Spinach
+Madhesh,Parsa,Rabi,Fenugreek
+Madhesh,Parsa,Rabi,Coriander
+Madhesh,Parsa,Rabi,Fennel
+Madhesh,Parsa,Rabi,Turnips
+Madhesh,Parsa,Rabi,Lettuce
+Madhesh,Parsa,Rabi,Beetroot
+Madhesh,Parsa,Summer,Maize
+Madhesh,Parsa,Summer,Watermelon
+Madhesh,Parsa,Summer,Muskmelon
+Madhesh,Parsa,Summer,Cucumber
+Madhesh,Parsa,Summer,Bottle gourd
+Madhesh,Parsa,Summer,Bitter gourd
+Madhesh,Parsa,Summer,Snake gourd
+Madhesh,Parsa,Summer,Pumpkin
+Madhesh,Parsa,Summer,Sponge gourd
+Madhesh,Parsa,Summer,Okra (Lady's finger)
+Madhesh,Parsa,Summer,Green chili
+Madhesh,Parsa,Summer,Eggplant (Brinjal)
+Madhesh,Parsa,Summer,Tomato
+Madhesh,Parsa,Summer,Capsicum (Bell pepper)
+Madhesh,Parsa,Summer,Amaranth
+Madhesh,Parsa,Summer,Indian spinach (Malabar spinach)
+Madhesh,Parsa,Summer,Cowpea
+Madhesh,Parsa,Summer,Yardlong bean (Snake bean)
+Madhesh,Parsa,Summer,Ridge gourd
+Madhesh,Rautahat,Kharif,Rice
+Madhesh,Rautahat,Kharif,Maize
+Madhesh,Rautahat,Kharif,Millet
+Madhesh,Rautahat,Kharif,Sorghum
+Madhesh,Rautahat,Kharif,Pigeon pea
+Madhesh,Rautahat,Kharif,Black gram (Urad dal)
+Madhesh,Rautahat,Kharif,Green gram (Moong dal)
+Madhesh,Rautahat,Kharif,Soybean
+Madhesh,Rautahat,Kharif,Sesame
+Madhesh,Rautahat,Kharif,Groundnut
+Madhesh,Rautahat,Kharif,Sunflower
+Madhesh,Rautahat,Rabi,Wheat
+Madhesh,Rautahat,Rabi,Barley
+Madhesh,Rautahat,Rabi,Mustard
+Madhesh,Rautahat,Rabi,Lentils
+Madhesh,Rautahat,Rabi,Chickpeas
+Madhesh,Rautahat,Rabi,Peas
+Madhesh,Rautahat,Rabi,Potatoes
+Madhesh,Rautahat,Rabi,Onions
+Madhesh,Rautahat,Rabi,Garlic
+Madhesh,Rautahat,Rabi,Cabbage
+Madhesh,Rautahat,Rabi,Cauliflower
+Madhesh,Rautahat,Rabi,Carrots
+Madhesh,Rautahat,Rabi,Radishes
+Madhesh,Rautahat,Rabi,Spinach
+Madhesh,Rautahat,Rabi,Fenugreek
+Madhesh,Rautahat,Rabi,Coriander
+Madhesh,Rautahat,Rabi,Fennel
+Madhesh,Rautahat,Rabi,Turnips
+Madhesh,Rautahat,Rabi,Lettuce
+Madhesh,Rautahat,Rabi,Beetroot
+Madhesh,Rautahat,Summer,Maize
+Madhesh,Rautahat,Summer,Watermelon
+Madhesh,Rautahat,Summer,Muskmelon
+Madhesh,Rautahat,Summer,Cucumber
+Madhesh,Rautahat,Summer,Bottle gourd
+Madhesh,Rautahat,Summer,Bitter gourd
+Madhesh,Rautahat,Summer,Snake gourd
+Madhesh,Rautahat,Summer,Pumpkin
+Madhesh,Rautahat,Summer,Sponge gourd
+Madhesh,Rautahat,Summer,Okra (Lady's finger)
+Madhesh,Rautahat,Summer,Green chili
+Madhesh,Rautahat,Summer,Eggplant (Brinjal)
+Madhesh,Rautahat,Summer,Tomato
+Madhesh,Rautahat,Summer,Capsicum (Bell pepper)
+Madhesh,Rautahat,Summer,Amaranth
+Madhesh,Rautahat,Summer,Indian spinach (Malabar spinach)
+Madhesh,Rautahat,Summer,Cowpea
+Madhesh,Rautahat,Summer,Yardlong bean (Snake bean)
+Madhesh,Rautahat,Summer,Ridge gourd
+Bagmati,Sindhuli,Kharif,Rice
+Bagmati,Sindhuli,Kharif,Maize
+Bagmati,Sindhuli,Kharif,Millet
+Bagmati,Sindhuli,Kharif,Sorghum
+Bagmati,Sindhuli,Kharif,Pigeon pea
+Bagmati,Sindhuli,Kharif,Black gram (Urad dal)
+Bagmati,Sindhuli,Kharif,Green gram (Moong dal)
+Bagmati,Sindhuli,Kharif,Soybean
+Bagmati,Sindhuli,Kharif,Sesame
+Bagmati,Sindhuli,Kharif,Groundnut
+Bagmati,Sindhuli,Kharif,Sunflower
+Bagmati,Sindhuli,Rabi,Wheat
+Bagmati,Sindhuli,Rabi,Barley
+Bagmati,Sindhuli,Rabi,Mustard
+Bagmati,Sindhuli,Rabi,Lentils
+Bagmati,Sindhuli,Rabi,Chickpeas
+Bagmati,Sindhuli,Rabi,Peas
+Bagmati,Sindhuli,Rabi,Potatoes
+Bagmati,Sindhuli,Rabi,Onions
+Bagmati,Sindhuli,Rabi,Garlic
+Bagmati,Sindhuli,Rabi,Cabbage
+Bagmati,Sindhuli,Rabi,Cauliflower
+Bagmati,Sindhuli,Rabi,Carrots
+Bagmati,Sindhuli,Rabi,Radishes
+Bagmati,Sindhuli,Rabi,Spinach
+Bagmati,Sindhuli,Rabi,Fenugreek
+Bagmati,Sindhuli,Rabi,Coriander
+Bagmati,Sindhuli,Rabi,Fennel
+Bagmati,Sindhuli,Rabi,Turnips
+Bagmati,Sindhuli,Rabi,Lettuce
+Bagmati,Sindhuli,Rabi,Beetroot
+Bagmati,Sindhuli,Summer,Maize
+Bagmati,Sindhuli,Summer,Watermelon
+Bagmati,Sindhuli,Summer,Muskmelon
+Bagmati,Sindhuli,Summer,Cucumber
+Bagmati,Sindhuli,Summer,Bottle gourd
+Bagmati,Sindhuli,Summer,Bitter gourd
+Bagmati,Sindhuli,Summer,Snake gourd
+Bagmati,Sindhuli,Summer,Pumpkin
+Bagmati,Sindhuli,Summer,Sponge gourd
+Bagmati,Sindhuli,Summer,Okra (Lady's finger)
+Bagmati,Sindhuli,Summer,Green chili
+Bagmati,Sindhuli,Summer,Eggplant (Brinjal)
+Bagmati,Sindhuli,Summer,Tomato
+Bagmati,Sindhuli,Summer,Capsicum (Bell pepper)
+Bagmati,Sindhuli,Summer,Amaranth
+Bagmati,Sindhuli,Summer,Indian spinach (Malabar spinach)
+Bagmati,Sindhuli,Summer,Cowpea
+Bagmati,Sindhuli,Summer,Yardlong bean (Snake bean)
+Bagmati,Sindhuli,Summer,Ridge gourd
+Bagmati,Ramechhap,Kharif,Rice
+Bagmati,Ramechhap,Kharif,Maize
+Bagmati,Ramechhap,Kharif,Millet
+Bagmati,Ramechhap,Kharif,Sorghum
+Bagmati,Ramechhap,Kharif,Pigeon pea
+Bagmati,Ramechhap,Kharif,Black gram (Urad dal)
+Bagmati,Ramechhap,Kharif,Green gram (Moong dal)
+Bagmati,Ramechhap,Kharif,Soybean
+Bagmati,Ramechhap,Kharif,Sesame
+Bagmati,Ramechhap,Kharif,Groundnut
+Bagmati,Ramechhap,Kharif,Sunflower
+Bagmati,Ramechhap,Rabi,Wheat
+Bagmati,Ramechhap,Rabi,Barley
+Bagmati,Ramechhap,Rabi,Mustard
+Bagmati,Ramechhap,Rabi,Lentils
+Bagmati,Ramechhap,Rabi,Chickpeas
+Bagmati,Ramechhap,Rabi,Peas
+Bagmati,Ramechhap,Rabi,Potatoes
+Bagmati,Ramechhap,Rabi,Onions
+Bagmati,Ramechhap,Rabi,Garlic
+Bagmati,Ramechhap,Rabi,Cabbage
+Bagmati,Ramechhap,Rabi,Cauliflower
+Bagmati,Ramechhap,Rabi,Carrots
+Bagmati,Ramechhap,Rabi,Radishes
+Bagmati,Ramechhap,Rabi,Spinach
+Bagmati,Ramechhap,Rabi,Fenugreek
+Bagmati,Ramechhap,Rabi,Coriander
+Bagmati,Ramechhap,Rabi,Fennel
+Bagmati,Ramechhap,Rabi,Turnips
+Bagmati,Ramechhap,Rabi,Lettuce
+Bagmati,Ramechhap,Rabi,Beetroot
+Bagmati,Ramechhap,Summer,Maize
+Bagmati,Ramechhap,Summer,Watermelon
+Bagmati,Ramechhap,Summer,Muskmelon
+Bagmati,Ramechhap,Summer,Cucumber
+Bagmati,Ramechhap,Summer,Bottle gourd
+Bagmati,Ramechhap,Summer,Bitter gourd
+Bagmati,Ramechhap,Summer,Snake gourd
+Bagmati,Ramechhap,Summer,Pumpkin
+Bagmati,Ramechhap,Summer,Sponge gourd
+Bagmati,Ramechhap,Summer,Okra (Lady's finger)
+Bagmati,Ramechhap,Summer,Green chili
+Bagmati,Ramechhap,Summer,Eggplant (Brinjal)
+Bagmati,Ramechhap,Summer,Tomato
+Bagmati,Ramechhap,Summer,Capsicum (Bell pepper)
+Bagmati,Ramechhap,Summer,Amaranth
+Bagmati,Ramechhap,Summer,Indian spinach (Malabar spinach)
+Bagmati,Ramechhap,Summer,Cowpea
+Bagmati,Ramechhap,Summer,Yardlong bean (Snake bean)
+Bagmati,Ramechhap,Summer,Ridge gourd
+Bagmati,Dolakha,Kharif,Rice
+Bagmati,Dolakha,Kharif,Maize
+Bagmati,Dolakha,Kharif,Millet
+Bagmati,Dolakha,Kharif,Sorghum
+Bagmati,Dolakha,Kharif,Pigeon pea
+Bagmati,Dolakha,Kharif,Black gram (Urad dal)
+Bagmati,Dolakha,Kharif,Green gram (Moong dal)
+Bagmati,Dolakha,Kharif,Soybean
+Bagmati,Dolakha,Kharif,Sesame
+Bagmati,Dolakha,Kharif,Groundnut
+Bagmati,Dolakha,Kharif,Sunflower
+Bagmati,Dolakha,Rabi,Wheat
+Bagmati,Dolakha,Rabi,Barley
+Bagmati,Dolakha,Rabi,Mustard
+Bagmati,Dolakha,Rabi,Lentils
+Bagmati,Dolakha,Rabi,Chickpeas
+Bagmati,Dolakha,Rabi,Peas
+Bagmati,Dolakha,Rabi,Potatoes
+Bagmati,Dolakha,Rabi,Onions
+Bagmati,Dolakha,Rabi,Garlic
+Bagmati,Dolakha,Rabi,Cabbage
+Bagmati,Dolakha,Rabi,Cauliflower
+Bagmati,Dolakha,Rabi,Carrots
+Bagmati,Dolakha,Rabi,Radishes
+Bagmati,Dolakha,Rabi,Spinach
+Bagmati,Dolakha,Rabi,Fenugreek
+Bagmati,Dolakha,Rabi,Coriander
+Bagmati,Dolakha,Rabi,Fennel
+Bagmati,Dolakha,Rabi,Turnips
+Bagmati,Dolakha,Rabi,Lettuce
+Bagmati,Dolakha,Rabi,Beetroot
+Bagmati,Dolakha,Summer,Maize
+Bagmati,Dolakha,Summer,Watermelon
+Bagmati,Dolakha,Summer,Muskmelon
+Bagmati,Dolakha,Summer,Cucumber
+Bagmati,Dolakha,Summer,Bottle gourd
+Bagmati,Dolakha,Summer,Bitter gourd
+Bagmati,Dolakha,Summer,Snake gourd
+Bagmati,Dolakha,Summer,Pumpkin
+Bagmati,Dolakha,Summer,Sponge gourd
+Bagmati,Dolakha,Summer,Okra (Lady's finger)
+Bagmati,Dolakha,Summer,Green chili
+Bagmati,Dolakha,Summer,Eggplant (Brinjal)
+Bagmati,Dolakha,Summer,Tomato
+Bagmati,Dolakha,Summer,Capsicum (Bell pepper)
+Bagmati,Dolakha,Summer,Amaranth
+Bagmati,Dolakha,Summer,Indian spinach (Malabar spinach)
+Bagmati,Dolakha,Summer,Cowpea
+Bagmati,Dolakha,Summer,Yardlong bean (Snake bean)
+Bagmati,Dolakha,Summer,Ridge gourd
+Bagmati,Bhaktapur,Kharif,Rice
+Bagmati,Bhaktapur,Kharif,Maize
+Bagmati,Bhaktapur,Kharif,Millet
+Bagmati,Bhaktapur,Kharif,Buckwheat
+Bagmati,Bhaktapur,Kharif,Finger millet (Ragi)
+Bagmati,Bhaktapur,Kharif,Soybean
+Bagmati,Bhaktapur,Kharif,Black gram (Urad dal)
+Bagmati,Bhaktapur,Kharif,Green gram (Moong dal)
+Bagmati,Bhaktapur,Kharif,Kidney beans (Rajma)
+Bagmati,Bhaktapur,Kharif,Lentils
+Bagmati,Bhaktapur,Rabi,Wheat
+Bagmati,Bhaktapur,Rabi,Barley
+Bagmati,Bhaktapur,Rabi,Mustard
+Bagmati,Bhaktapur,Rabi,Potatoes
+Bagmati,Bhaktapur,Rabi,Radishes
+Bagmati,Bhaktapur,Rabi,Carrots
+Bagmati,Bhaktapur,Rabi,Cabbage
+Bagmati,Bhaktapur,Rabi,Cauliflower
+Bagmati,Bhaktapur,Rabi,Spinach
+Bagmati,Bhaktapur,Rabi,Coriander
+Bagmati,Bhaktapur,Rabi,Fennel
+Bagmati,Bhaktapur,Rabi,Turnips
+Bagmati,Bhaktapur,Summer,Maize
+Bagmati,Bhaktapur,Summer,Cucumbers
+Bagmati,Bhaktapur,Summer,Bottle gourd
+Bagmati,Bhaktapur,Summer,Bitter gourd
+Bagmati,Bhaktapur,Summer,Snake gourd
+Bagmati,Bhaktapur,Summer,Sponge gourd
+Bagmati,Bhaktapur,Summer,Pumpkin
+Bagmati,Bhaktapur,Summer,Okra (Lady's finger)
+Bagmati,Bhaktapur,Summer,Green chili
+Bagmati,Bhaktapur,Summer,Eggplant (Brinjal)
+Bagmati,Bhaktapur,Summer,Tomato
+Bagmati,Bhaktapur,Summer,Capsicum (Bell pepper)
+Bagmati,Bhaktapur,Summer,Amaranth
+Bagmati,Bhaktapur,Summer,Yardlong bean (Snake bean)
+Bagmati,Bhaktapur,Summer,Cowpea
+Bagmati,Bhaktapur,Summer,Ridge gourd
+Bagmati,Dhading,Kharif,Rice
+Bagmati,Dhading,Kharif,Maize
+Bagmati,Dhading,Kharif,Millet
+Bagmati,Dhading,Kharif,Soybean
+Bagmati,Dhading,Kharif,Green gram (Moong dal)
+Bagmati,Dhading,Kharif,Black gram (Urad dal)
+Bagmati,Dhading,Kharif,Pigeon pea
+Bagmati,Dhading,Kharif,Sesame
+Bagmati,Dhading,Rabi,Wheat
+Bagmati,Dhading,Rabi,Barley
+Bagmati,Dhading,Rabi,Mustard
+Bagmati,Dhading,Rabi,Lentils
+Bagmati,Dhading,Rabi,Chickpeas
+Bagmati,Dhading,Rabi,Peas
+Bagmati,Dhading,Rabi,Potatoes
+Bagmati,Dhading,Rabi,Onions
+Bagmati,Dhading,Rabi,Garlic
+Bagmati,Dhading,Rabi,Cabbage
+Bagmati,Dhading,Rabi,Cauliflower
+Bagmati,Dhading,Rabi,Carrots
+Bagmati,Dhading,Rabi,Radishes
+Bagmati,Dhading,Rabi,Spinach
+Bagmati,Dhading,Rabi,Coriander
+Bagmati,Dhading,Rabi,Fennel
+Bagmati,Dhading,Rabi,Turnips
+Bagmati,Dhading,Rabi,Lettuce
+Bagmati,Dhading,Rabi,Beets
+Bagmati,Dhading,Summer,Maize
+Bagmati,Dhading,Summer,Cucumber
+Bagmati,Dhading,Summer,Bottle gourd
+Bagmati,Dhading,Summer,Bitter gourd
+Bagmati,Dhading,Summer,Sponge gourd
+Bagmati,Dhading,Summer,Pumpkin
+Bagmati,Dhading,Summer,Okra (Lady's finger)
+Bagmati,Dhading,Summer,Green chili
+Bagmati,Dhading,Summer,Eggplant (Brinjal)
+Bagmati,Dhading,Summer,Tomato
+Bagmati,Dhading,Summer,Capsicum (Bell pepper)
+Bagmati,Dhading,Summer,Yardlong bean (Snake bean)
+Bagmati,Dhading,Summer,Cowpea
+Bagmati,Dhading,Summer,Amaranth
+Bagmati,Kathmandu,Kharif,Paddy (rice)
+Bagmati,Kathmandu,Kharif,Maize
+Bagmati,Kathmandu,Kharif,Millet
+Bagmati,Kathmandu,Kharif,"Pulses (beans, lentils, peas)"
+Bagmati,Kathmandu,Kharif,"Oilseeds (mustard, rapeseed, sesame)"
+Bagmati,Kathmandu,Kharif,"Vegetables (tomatoes, cucumbers, eggplants, okra, spinach, cabbage, cauliflower)"
+Bagmati,Kathmandu,Rabi,Wheat
+Bagmati,Kathmandu,Rabi,Barley
+Bagmati,Kathmandu,Rabi,Mustard
+Bagmati,Kathmandu,Rabi,Lentils
+Bagmati,Kathmandu,Rabi,Chickpeas
+Bagmati,Kathmandu,Rabi,Peas
+Bagmati,Kathmandu,Rabi,Potatoes
+Bagmati,Kathmandu,Rabi,Onions
+Bagmati,Kathmandu,Rabi,Garlic
+Bagmati,Kathmandu,Rabi,Cabbage
+Bagmati,Kathmandu,Rabi,Cauliflower
+Bagmati,Kathmandu,Rabi,Carrots
+Bagmati,Kathmandu,Rabi,Radishes
+Bagmati,Kathmandu,Rabi,Spinach
+Bagmati,Kathmandu,Rabi,Coriander
+Bagmati,Kathmandu,Rabi,Fennel
+Bagmati,Kathmandu,Rabi,Turnips
+Bagmati,Kathmandu,Rabi,Lettuce
+Bagmati,Kathmandu,Rabi,Beets
+Bagmati,Kathmandu,Summer,Maize
+Bagmati,Kathmandu,Summer,Cucumber
+Bagmati,Kathmandu,Summer,Bottle gourd
+Bagmati,Kathmandu,Summer,Bitter gourd
+Bagmati,Kathmandu,Summer,Sponge gourd
+Bagmati,Kathmandu,Summer,Pumpkin
+Bagmati,Kathmandu,Summer,Okra (Lady's finger)
+Bagmati,Kathmandu,Summer,Green chili
+Bagmati,Kathmandu,Summer,Eggplant (Brinjal)
+Bagmati,Kathmandu,Summer,Tomato
+Bagmati,Kathmandu,Summer,Capsicum (Bell pepper)
+Bagmati,Kathmandu,Summer,Yardlong bean (Snake bean)
+Bagmati,Kathmandu,Summer,Cowpea
+Bagmati,Kathmandu,Summer,Amaranth
+Bagmati,Kavrepalanchok,Kharif,Rice
+Bagmati,Kavrepalanchok,Kharif,Maize
+Bagmati,Kavrepalanchok,Kharif,Millet
+Bagmati,Kavrepalanchok,Kharif,Soybean
+Bagmati,Kavrepalanchok,Kharif,Green gram (Moong dal)
+Bagmati,Kavrepalanchok,Kharif,Black gram (Urad dal)
+Bagmati,Kavrepalanchok,Kharif,Pigeon pea
+Bagmati,Kavrepalanchok,Kharif,Sesame
+Bagmati,Kavrepalanchok,Kharif,Groundnut
+Bagmati,Kavrepalanchok,Rabi,Wheat
+Bagmati,Kavrepalanchok,Rabi,Barley
+Bagmati,Kavrepalanchok,Rabi,Mustard
+Bagmati,Kavrepalanchok,Rabi,Lentils
+Bagmati,Kavrepalanchok,Rabi,Chickpeas
+Bagmati,Kavrepalanchok,Rabi,Peas
+Bagmati,Kavrepalanchok,Rabi,Potatoes
+Bagmati,Kavrepalanchok,Rabi,Onions
+Bagmati,Kavrepalanchok,Rabi,Garlic
+Bagmati,Kavrepalanchok,Rabi,Cabbage
+Bagmati,Kavrepalanchok,Rabi,Cauliflower
+Bagmati,Kavrepalanchok,Rabi,Carrots
+Bagmati,Kavrepalanchok,Rabi,Radishes
+Bagmati,Kavrepalanchok,Rabi,Spinach
+Bagmati,Kavrepalanchok,Rabi,Coriander
+Bagmati,Kavrepalanchok,Rabi,Fennel
+Bagmati,Kavrepalanchok,Rabi,Turnips
+Bagmati,Kavrepalanchok,Rabi,Lettuce
+Bagmati,Kavrepalanchok,Rabi,Beets
+Bagmati,Kavrepalanchok,Summer,Maize
+Bagmati,Kavrepalanchok,Summer,Cucumber
+Bagmati,Kavrepalanchok,Summer,Bottle gourd
+Bagmati,Kavrepalanchok,Summer,Bitter gourd
+Bagmati,Kavrepalanchok,Summer,Sponge gourd
+Bagmati,Kavrepalanchok,Summer,Pumpkin
+Bagmati,Kavrepalanchok,Summer,Okra (Lady's finger)
+Bagmati,Kavrepalanchok,Summer,Green chili
+Bagmati,Kavrepalanchok,Summer,Eggplant (Brinjal)
+Bagmati,Kavrepalanchok,Summer,Tomato
+Bagmati,Kavrepalanchok,Summer,Capsicum (Bell pepper)
+Bagmati,Kavrepalanchok,Summer,Yardlong bean (Snake bean)
+Bagmati,Kavrepalanchok,Summer,Cowpea
+Bagmati,Kavrepalanchok,Summer,Amaranth
+Bagmati,Lalitpur,Kharif,Rice
+Bagmati,Lalitpur,Kharif,Maize
+Bagmati,Lalitpur,Kharif,Millet
+Bagmati,Lalitpur,Kharif,Soybean
+Bagmati,Lalitpur,Kharif,Green gram (Moong dal)
+Bagmati,Lalitpur,Kharif,Black gram (Urad dal)
+Bagmati,Lalitpur,Kharif,Pigeon pea
+Bagmati,Lalitpur,Kharif,Sesame
+Bagmati,Lalitpur,Rabi,Wheat
+Bagmati,Lalitpur,Rabi,Barley
+Bagmati,Lalitpur,Rabi,Mustard
+Bagmati,Lalitpur,Rabi,Lentils
+Bagmati,Lalitpur,Rabi,Chickpeas
+Bagmati,Lalitpur,Rabi,Peas
+Bagmati,Lalitpur,Rabi,Potatoes
+Bagmati,Lalitpur,Rabi,Onions
+Bagmati,Lalitpur,Rabi,Garlic
+Bagmati,Lalitpur,Rabi,Cabbage
+Bagmati,Lalitpur,Rabi,Cauliflower
+Bagmati,Lalitpur,Rabi,Carrots
+Bagmati,Lalitpur,Rabi,Radishes
+Bagmati,Lalitpur,Rabi,Spinach
+Bagmati,Lalitpur,Rabi,Coriander
+Bagmati,Lalitpur,Rabi,Fennel
+Bagmati,Lalitpur,Rabi,Turnips
+Bagmati,Lalitpur,Rabi,Lettuce
+Bagmati,Lalitpur,Rabi,Beets
+Bagmati,Lalitpur,Summer,Maize
+Bagmati,Lalitpur,Summer,Cucumber
+Bagmati,Lalitpur,Summer,Bottle gourd
+Bagmati,Lalitpur,Summer,Bitter gourd
+Bagmati,Lalitpur,Summer,Sponge gourd
+Bagmati,Lalitpur,Summer,Pumpkin
+Bagmati,Lalitpur,Summer,Okra (Lady's finger)
+Bagmati,Lalitpur,Summer,Green chili
+Bagmati,Lalitpur,Summer,Eggplant (Brinjal)
+Bagmati,Lalitpur,Summer,Tomato
+Bagmati,Lalitpur,Summer,Capsicum (Bell pepper)
+Bagmati,Lalitpur,Summer,Yardlong bean (Snake bean)
+Bagmati,Lalitpur,Summer,Cowpea
+Bagmati,Lalitpur,Summer,Amaranth
+Bagmati,Nuwakot,Kharif,Rice
+Bagmati,Nuwakot,Kharif,Maize
+Bagmati,Nuwakot,Kharif,Millet
+Bagmati,Nuwakot,Kharif,Soybean
+Bagmati,Nuwakot,Kharif,Green gram (Moong dal)
+Bagmati,Nuwakot,Kharif,Black gram (Urad dal)
+Bagmati,Nuwakot,Kharif,Pigeon pea
+Bagmati,Nuwakot,Kharif,Sesame
+Bagmati,Nuwakot,Rabi,Wheat
+Bagmati,Nuwakot,Rabi,Barley
+Bagmati,Nuwakot,Rabi,Mustard
+Bagmati,Nuwakot,Rabi,Lentils
+Bagmati,Nuwakot,Rabi,Chickpeas
+Bagmati,Nuwakot,Rabi,Potatoes
+Bagmati,Nuwakot,Rabi,Onions
+Bagmati,Nuwakot,Rabi,Garlic
+Bagmati,Nuwakot,Rabi,Cabbage
+Bagmati,Nuwakot,Rabi,Cauliflower
+Bagmati,Nuwakot,Rabi,Carrots
+Bagmati,Nuwakot,Rabi,Radishes
+Bagmati,Nuwakot,Rabi,Spinach
+Bagmati,Nuwakot,Summer,Maize
+Bagmati,Nuwakot,Summer,Cucumber
+Bagmati,Nuwakot,Summer,Bottle gourd
+Bagmati,Nuwakot,Summer,Bitter gourd
+Bagmati,Nuwakot,Summer,Sponge gourd
+Bagmati,Nuwakot,Summer,Pumpkin
+Bagmati,Nuwakot,Summer,Okra (Lady's finger)
+Bagmati,Nuwakot,Summer,Green chili
+Bagmati,Nuwakot,Summer,Eggplant (Brinjal)
+Bagmati,Nuwakot,Summer,Tomato
+Bagmati,Nuwakot,Summer,Yardlong bean (Snake bean)
+Bagmati,Nuwakot,Summer,Cowpea
+Bagmati,Rasuwa,Kharif,Potatoes
+Bagmati,Rasuwa,Kharif,Buckwheat
+Bagmati,Rasuwa,Kharif,Beans (limited varieties)
+Bagmati,Rasuwa,Kharif,Radishes
+Bagmati,Rasuwa,Kharif,Mustard greens
+Bagmati,Rasuwa,Rabi,Potatoes
+Bagmati,Rasuwa,Rabi,Carrots
+Bagmati,Rasuwa,Rabi,Radishes
+Bagmati,Rasuwa,Rabi,Mustard greens
+Bagmati,Rasuwa,Rabi,Spinach
+Bagmati,Rasuwa,Summer,Tomatoes
+Bagmati,Rasuwa,Summer,Cucumbers
+Bagmati,Rasuwa,Summer,Beans
+Bagmati,Rasuwa,Summer,peas
+Bagmati,Rasuwa,Summer,zucchini
+Bagmati,Rasuwa,Summer,Pumpkin
+Bagmati,Rasuwa,Summer,Lettuce
+Bagmati,Rasuwa,Summer,Spinach
+Bagmati,Rasuwa,Summer,mint
+Bagmati,Rasuwa,Summer,Coriander
+Bagmati,Rasuwa,Summer,basil
+Bagmati,Rasuwa,Summer,parsley
+Bagmati,Rasuwa,Summer,oats
+Bagmati,Rasuwa,Summer,ryegrass
+Bagmati,Rasuwa,Summer,silage
+Bagmati,Sindhupalchok,Kharif,Rice
+Bagmati,Sindhupalchok,Kharif,Maize
+Bagmati,Sindhupalchok,Kharif,Millet
+Bagmati,Sindhupalchok,Kharif,Soybean
+Bagmati,Sindhupalchok,Kharif,Green gram (Moong dal)
+Bagmati,Sindhupalchok,Kharif,Black gram (Urad dal)
+Bagmati,Sindhupalchok,Kharif,Pigeon pea
+Bagmati,Sindhupalchok,Kharif,Sesame
+Bagmati,Sindhupalchok,Kharif,Buckwheat (in higher altitudes)
+Bagmati,Sindhupalchok,Rabi,Wheat
+Bagmati,Sindhupalchok,Rabi,Barley
+Bagmati,Sindhupalchok,Rabi,Mustard
+Bagmati,Sindhupalchok,Rabi,Lentils
+Bagmati,Sindhupalchok,Rabi,Chickpeas
+Bagmati,Sindhupalchok,Rabi,Potatoes
+Bagmati,Sindhupalchok,Rabi,Onions
+Bagmati,Sindhupalchok,Rabi,Garlic
+Bagmati,Sindhupalchok,Rabi,Cabbage
+Bagmati,Sindhupalchok,Rabi,Cauliflower
+Bagmati,Sindhupalchok,Rabi,Carrots
+Bagmati,Sindhupalchok,Rabi,Radishes
+Bagmati,Sindhupalchok,Rabi,Spinach
+Bagmati,Sindhupalchok,Rabi,Coriander
+Bagmati,Sindhupalchok,Rabi,Fennel
+Bagmati,Sindhupalchok,Summer,Maize
+Bagmati,Sindhupalchok,Summer,Cucumber
+Bagmati,Sindhupalchok,Summer,Bottle gourd
+Bagmati,Sindhupalchok,Summer,Bitter gourd
+Bagmati,Sindhupalchok,Summer,Sponge gourd
+Bagmati,Sindhupalchok,Summer,Pumpkin
+Bagmati,Sindhupalchok,Summer,Okra (Lady's finger)
+Bagmati,Sindhupalchok,Summer,Green chili
+Bagmati,Sindhupalchok,Summer,Eggplant (Brinjal)
+Bagmati,Sindhupalchok,Summer,Tomato
+Bagmati,Sindhupalchok,Summer,Yardlong bean (Snake bean)
+Bagmati,Sindhupalchok,Summer,Cowpea
+Bagmati,Sindhupalchok,Summer,Amaranth
+Bagmati,Chitwan,Kharif,Rice
+Bagmati,Chitwan,Kharif,Maize
+Bagmati,Chitwan,Kharif,Millet
+Bagmati,Chitwan,Kharif,Soybean
+Bagmati,Chitwan,Kharif,Green gram (Moong dal)
+Bagmati,Chitwan,Kharif,Black gram (Urad dal)
+Bagmati,Chitwan,Kharif,Pigeon pea
+Bagmati,Chitwan,Kharif,Sesame
+Bagmati,Chitwan,Kharif,Sugarcane
+Bagmati,Chitwan,Kharif,Watermelon
+Bagmati,Chitwan,Kharif,Muskmelon
+Bagmati,Chitwan,Kharif,Pumpkin
+Bagmati,Chitwan,Kharif,Bottle gourd
+Bagmati,Chitwan,Kharif,Bitter gourd
+Bagmati,Chitwan,Kharif,Sponge gourd
+Bagmati,Chitwan,Kharif,Cucumber
+Bagmati,Chitwan,Kharif,Okra (Lady's finger)
+Bagmati,Chitwan,Kharif,Cowpea
+Bagmati,Chitwan,Kharif,Sunflower
+Bagmati,Chitwan,Rabi,Wheat
+Bagmati,Chitwan,Rabi,Barley
+Bagmati,Chitwan,Rabi,Mustard
+Bagmati,Chitwan,Rabi,Lentils
+Bagmati,Chitwan,Rabi,Chickpeas
+Bagmati,Chitwan,Rabi,Potatoes
+Bagmati,Chitwan,Rabi,Onions
+Bagmati,Chitwan,Rabi,Garlic
+Bagmati,Chitwan,Rabi,Cabbage
+Bagmati,Chitwan,Rabi,Cauliflower
+Bagmati,Chitwan,Rabi,Carrots
+Bagmati,Chitwan,Rabi,Radishes
+Bagmati,Chitwan,Rabi,Spinach
+Bagmati,Chitwan,Rabi,Coriander
+Bagmati,Chitwan,Rabi,Fennel
+Bagmati,Chitwan,Rabi,Turnips
+Bagmati,Chitwan,Rabi,Lettuce
+Bagmati,Chitwan,Rabi,Beets
+Bagmati,Chitwan,Summer,Maize
+Bagmati,Chitwan,Summer,Cucumber
+Bagmati,Chitwan,Summer,Bottle gourd
+Bagmati,Chitwan,Summer,Bitter gourd
+Bagmati,Chitwan,Summer,Sponge gourd
+Bagmati,Chitwan,Summer,Pumpkin
+Bagmati,Chitwan,Summer,Okra (Lady's finger)
+Bagmati,Chitwan,Summer,Green chili
+Bagmati,Chitwan,Summer,Eggplant (Brinjal)
+Bagmati,Chitwan,Summer,Tomato
+Bagmati,Chitwan,Summer,Yardlong bean (Snake bean)
+Bagmati,Chitwan,Summer,Cowpea
+Bagmati,Chitwan,Summer,Amaranth
+Bagmati,Chitwan,Summer,Watermelon
+Bagmati,Chitwan,Summer,Muskmelon
+Bagmati,Chitwan,Summer,Cabbage
+Bagmati,Chitwan,Summer,Cauliflower
+Bagmati,Chitwan,Summer,Capsicum (Bell pepper)
+Bagmati,Makwanpur,Kharif,Rice
+Bagmati,Makwanpur,Kharif,Maize
+Bagmati,Makwanpur,Kharif,Millet
+Bagmati,Makwanpur,Kharif,Soybean
+Bagmati,Makwanpur,Kharif,Green gram (Moong dal)
+Bagmati,Makwanpur,Kharif,Black gram (Urad dal)
+Bagmati,Makwanpur,Kharif,Pigeon pea
+Bagmati,Makwanpur,Kharif,Sesame
+Bagmati,Makwanpur,Kharif,Sugarcane
+Bagmati,Makwanpur,Kharif,Watermelon
+Bagmati,Makwanpur,Kharif,Muskmelon
+Bagmati,Makwanpur,Kharif,Pumpkin
+Bagmati,Makwanpur,Kharif,Bottle gourd
+Bagmati,Makwanpur,Kharif,Bitter gourd
+Bagmati,Makwanpur,Kharif,Sponge gourd
+Bagmati,Makwanpur,Kharif,Cucumber
+Bagmati,Makwanpur,Kharif,Okra (Lady's finger)
+Bagmati,Makwanpur,Kharif,Cowpea
+Bagmati,Makwanpur,Rabi,Wheat
+Bagmati,Makwanpur,Rabi,Barley
+Bagmati,Makwanpur,Rabi,Mustard
+Bagmati,Makwanpur,Rabi,Lentils
+Bagmati,Makwanpur,Rabi,Chickpeas
+Bagmati,Makwanpur,Rabi,Potatoes
+Bagmati,Makwanpur,Rabi,Onions
+Bagmati,Makwanpur,Rabi,Garlic
+Bagmati,Makwanpur,Rabi,Cabbage
+Bagmati,Makwanpur,Rabi,Cauliflower
+Bagmati,Makwanpur,Rabi,Carrots
+Bagmati,Makwanpur,Rabi,Radishes
+Bagmati,Makwanpur,Rabi,Spinach
+Bagmati,Makwanpur,Rabi,Coriander
+Bagmati,Makwanpur,Rabi,Fennel
+Bagmati,Makwanpur,Rabi,Turnips
+Bagmati,Makwanpur,Rabi,Lettuce
+Bagmati,Makwanpur,Rabi,Beets
+Bagmati,Makwanpur,Summer,Maize
+Bagmati,Makwanpur,Summer,Cucumber
+Bagmati,Makwanpur,Summer,Bottle gourd
+Bagmati,Makwanpur,Summer,Bitter gourd
+Bagmati,Makwanpur,Summer,Sponge gourd
+Bagmati,Makwanpur,Summer,Pumpkin
+Bagmati,Makwanpur,Summer,Okra (Lady's finger)
+Bagmati,Makwanpur,Summer,Green chili
+Bagmati,Makwanpur,Summer,Eggplant (Brinjal)
+Bagmati,Makwanpur,Summer,Tomato
+Bagmati,Makwanpur,Summer,Yardlong bean (Snake bean)
+Bagmati,Makwanpur,Summer,Cowpea
+Bagmati,Makwanpur,Summer,Amaranth
+Bagmati,Makwanpur,Summer,Watermelon
+Bagmati,Makwanpur,Summer,Muskmelon
+Bagmati,Makwanpur,Summer,Capsicum (Bell pepper)
+Gandaki,Baglung,Kharif,Rice
+Gandaki,Baglung,Kharif,Maize
+Gandaki,Baglung,Kharif,Millet
+Gandaki,Baglung,Kharif,Soybean
+Gandaki,Baglung,Kharif,Green gram (Moong dal)
+Gandaki,Baglung,Kharif,Black gram (Urad dal)
+Gandaki,Baglung,Kharif,Pigeon pea
+Gandaki,Baglung,Kharif,Sesame
+Gandaki,Baglung,Kharif,Buckwheat (in higher altitudes)
+Gandaki,Baglung,Rabi,Wheat
+Gandaki,Baglung,Rabi,Barley
+Gandaki,Baglung,Rabi,Mustard
+Gandaki,Baglung,Rabi,Lentils
+Gandaki,Baglung,Rabi,Chickpeas
+Gandaki,Baglung,Rabi,Potatoes
+Gandaki,Baglung,Rabi,Onions
+Gandaki,Baglung,Rabi,Garlic
+Gandaki,Baglung,Rabi,Cabbage
+Gandaki,Baglung,Rabi,Cauliflower
+Gandaki,Baglung,Rabi,Carrots
+Gandaki,Baglung,Rabi,Radishes
+Gandaki,Baglung,Rabi,Spinach
+Gandaki,Baglung,Rabi,Coriander
+Gandaki,Baglung,Rabi,Fennel
+Gandaki,Baglung,Rabi,Turnips
+Gandaki,Baglung,Rabi,Lettuce
+Gandaki,Baglung,Rabi,Beets
+Gandaki,Baglung,Summer,Maize
+Gandaki,Baglung,Summer,Cucumber
+Gandaki,Baglung,Summer,Bottle gourd
+Gandaki,Baglung,Summer,Bitter gourd
+Gandaki,Baglung,Summer,Sponge gourd
+Gandaki,Baglung,Summer,Pumpkin
+Gandaki,Baglung,Summer,Okra (Lady's finger)
+Gandaki,Baglung,Summer,Green chili
+Gandaki,Baglung,Summer,Eggplant (Brinjal)
+Gandaki,Baglung,Summer,Tomato
+Gandaki,Baglung,Summer,Yardlong bean (Snake bean)
+Gandaki,Baglung,Summer,Cowpea
+Gandaki,Baglung,Summer,Amaranth
+Gandaki,Gorkha,Kharif,Rice
+Gandaki,Gorkha,Kharif,Maize
+Gandaki,Gorkha,Kharif,Millet
+Gandaki,Gorkha,Kharif,Soybean
+Gandaki,Gorkha,Kharif,Green gram (Moong dal)
+Gandaki,Gorkha,Kharif,Black gram (Urad dal)
+Gandaki,Gorkha,Kharif,Pigeon pea
+Gandaki,Gorkha,Kharif,Sesame
+Gandaki,Gorkha,Kharif,Buckwheat (in higher altitudes)
+Gandaki,Gorkha,Kharif,"Beans (Kidney beans, Lima beans, etc.)"
+Gandaki,Gorkha,Rabi,Wheat
+Gandaki,Gorkha,Rabi,Barley
+Gandaki,Gorkha,Rabi,Mustard
+Gandaki,Gorkha,Rabi,Lentils
+Gandaki,Gorkha,Rabi,Chickpeas
+Gandaki,Gorkha,Rabi,Potatoes
+Gandaki,Gorkha,Rabi,Onions
+Gandaki,Gorkha,Rabi,Garlic
+Gandaki,Gorkha,Rabi,Cabbage
+Gandaki,Gorkha,Rabi,Cauliflower
+Gandaki,Gorkha,Rabi,Carrots
+Gandaki,Gorkha,Rabi,Radishes
+Gandaki,Gorkha,Rabi,Spinach
+Gandaki,Gorkha,Rabi,Coriander
+Gandaki,Gorkha,Rabi,Fennel
+Gandaki,Gorkha,Rabi,Turnips
+Gandaki,Gorkha,Rabi,Lettuce
+Gandaki,Gorkha,Rabi,Beets
+Gandaki,Gorkha,Summer,Maize
+Gandaki,Gorkha,Summer,Cucumber
+Gandaki,Gorkha,Summer,Bottle gourd
+Gandaki,Gorkha,Summer,Bitter gourd
+Gandaki,Gorkha,Summer,Sponge gourd
+Gandaki,Gorkha,Summer,Pumpkin
+Gandaki,Gorkha,Summer,Okra (Lady's finger)
+Gandaki,Gorkha,Summer,Green chili
+Gandaki,Gorkha,Summer,Eggplant (Brinjal)
+Gandaki,Gorkha,Summer,Tomato
+Gandaki,Gorkha,Summer,Yardlong bean (Snake bean)
+Gandaki,Gorkha,Summer,Cowpea
+Gandaki,Gorkha,Summer,Amaranth
+Gandaki,Gorkha,Summer,Watermelon
+Gandaki,Gorkha,Summer,Muskmelon
+Gandaki,Kaski,Kharif,Rice
+Gandaki,Kaski,Kharif,Maize
+Gandaki,Kaski,Kharif,Millet
+Gandaki,Kaski,Kharif,Soybean
+Gandaki,Kaski,Kharif,Green gram (Moong dal)
+Gandaki,Kaski,Kharif,Black gram (Urad dal)
+Gandaki,Kaski,Kharif,Pigeon pea
+Gandaki,Kaski,Kharif,Sesame
+Gandaki,Kaski,Kharif,Buckwheat (in higher altitudes)
+Gandaki,Kaski,Rabi,Wheat
+Gandaki,Kaski,Rabi,Barley
+Gandaki,Kaski,Rabi,Mustard
+Gandaki,Kaski,Rabi,Lentils
+Gandaki,Kaski,Rabi,Chickpeas
+Gandaki,Kaski,Rabi,Potatoes
+Gandaki,Kaski,Rabi,Onions
+Gandaki,Kaski,Rabi,Garlic
+Gandaki,Kaski,Rabi,Cabbage
+Gandaki,Kaski,Rabi,Cauliflower
+Gandaki,Kaski,Rabi,Carrots
+Gandaki,Kaski,Rabi,Radishes
+Gandaki,Kaski,Rabi,Spinach
+Gandaki,Kaski,Rabi,Coriander
+Gandaki,Kaski,Rabi,Fennel
+Gandaki,Kaski,Rabi,Turnips
+Gandaki,Kaski,Rabi,Lettuce
+Gandaki,Kaski,Rabi,Beets
+Gandaki,Kaski,Summer,Maize
+Gandaki,Kaski,Summer,Cucumber
+Gandaki,Kaski,Summer,Bottle gourd
+Gandaki,Kaski,Summer,Bitter gourd
+Gandaki,Kaski,Summer,Sponge gourd
+Gandaki,Kaski,Summer,Pumpkin
+Gandaki,Kaski,Summer,Okra (Lady's finger)
+Gandaki,Kaski,Summer,Green chili
+Gandaki,Kaski,Summer,Eggplant (Brinjal)
+Gandaki,Kaski,Summer,Tomato
+Gandaki,Kaski,Summer,Yardlong bean (Snake bean)
+Gandaki,Kaski,Summer,Cowpea
+Gandaki,Kaski,Summer,Amaranth
+Gandaki,Lamjung,Kharif,Rice
+Gandaki,Lamjung,Kharif,Maize
+Gandaki,Lamjung,Kharif,Millet
+Gandaki,Lamjung,Kharif,Soybean
+Gandaki,Lamjung,Kharif,Green gram (Moong dal)
+Gandaki,Lamjung,Kharif,Black gram (Urad dal)
+Gandaki,Lamjung,Kharif,Pigeon pea
+Gandaki,Lamjung,Kharif,Sesame
+Gandaki,Lamjung,Kharif,Buckwheat (in higher altitudes)
+Gandaki,Lamjung,Kharif,"Beans (Kidney beans, Lima beans, etc.)"
+Gandaki,Lamjung,Rabi,Wheat
+Gandaki,Lamjung,Rabi,Barley
+Gandaki,Lamjung,Rabi,Mustard
+Gandaki,Lamjung,Rabi,Lentils
+Gandaki,Lamjung,Rabi,Chickpeas
+Gandaki,Lamjung,Rabi,Potatoes
+Gandaki,Lamjung,Rabi,Onions
+Gandaki,Lamjung,Rabi,Garlic
+Gandaki,Lamjung,Rabi,Cabbage
+Gandaki,Lamjung,Rabi,Cauliflower
+Gandaki,Lamjung,Rabi,Carrots
+Gandaki,Lamjung,Rabi,Radishes
+Gandaki,Lamjung,Rabi,Spinach
+Gandaki,Lamjung,Rabi,Coriander
+Gandaki,Lamjung,Rabi,Fennel
+Gandaki,Lamjung,Rabi,Turnips
+Gandaki,Lamjung,Rabi,Lettuce
+Gandaki,Lamjung,Rabi,Beets
+Gandaki,Lamjung,Summer,Maize
+Gandaki,Lamjung,Summer,Cucumber
+Gandaki,Lamjung,Summer,Bottle gourd
+Gandaki,Lamjung,Summer,Bitter gourd
+Gandaki,Lamjung,Summer,Sponge gourd
+Gandaki,Lamjung,Summer,Pumpkin
+Gandaki,Lamjung,Summer,Okra (Lady's finger)
+Gandaki,Lamjung,Summer,Green chili
+Gandaki,Lamjung,Summer,Eggplant (Brinjal)
+Gandaki,Lamjung,Summer,Tomato
+Gandaki,Lamjung,Summer,Yardlong bean (Snake bean)
+Gandaki,Lamjung,Summer,Cowpea
+Gandaki,Lamjung,Summer,Amaranth
+Gandaki,Lamjung,Summer,Watermelon
+Gandaki,Lamjung,Summer,Muskmelon
+Gandaki,Manang,Kharif,Buckwheat
+Gandaki,Manang,Rabi,Barley
+Gandaki,Manang,Summer,Potatoes
+Gandaki,Mustang,Kharif,Barley
+Gandaki,Mustang,Rabi,Barley
+Gandaki,Mustang,Summer,Potatoes
+Gandaki,Myagdi,Kharif,Rice
+Gandaki,Myagdi,Kharif,Maize
+Gandaki,Myagdi,Kharif,Millet
+Gandaki,Myagdi,Kharif,Soybean
+Gandaki,Myagdi,Kharif,Green gram (Moong dal)
+Gandaki,Myagdi,Kharif,Black gram (Urad dal)
+Gandaki,Myagdi,Kharif,Pigeon pea
+Gandaki,Myagdi,Kharif,Sesame
+Gandaki,Myagdi,Rabi,Wheat
+Gandaki,Myagdi,Rabi,Barley
+Gandaki,Myagdi,Rabi,Mustard
+Gandaki,Myagdi,Rabi,Lentils
+Gandaki,Myagdi,Rabi,Chickpeas
+Gandaki,Myagdi,Rabi,Potatoes
+Gandaki,Myagdi,Rabi,Onions
+Gandaki,Myagdi,Rabi,Garlic
+Gandaki,Myagdi,Rabi,Cabbage
+Gandaki,Myagdi,Rabi,Cauliflower
+Gandaki,Myagdi,Rabi,Carrots
+Gandaki,Myagdi,Rabi,Radishes
+Gandaki,Myagdi,Rabi,Spinach
+Gandaki,Myagdi,Rabi,Coriander
+Gandaki,Myagdi,Rabi,Fennel
+Gandaki,Myagdi,Rabi,Turnips
+Gandaki,Myagdi,Rabi,Lettuce
+Gandaki,Myagdi,Rabi,Beets
+Gandaki,Myagdi,Summer,Maize
+Gandaki,Myagdi,Summer,Cucumber
+Gandaki,Myagdi,Summer,Bottle gourd
+Gandaki,Myagdi,Summer,Bitter gourd
+Gandaki,Myagdi,Summer,Sponge gourd
+Gandaki,Myagdi,Summer,Pumpkin
+Gandaki,Myagdi,Summer,Okra (Lady's finger)
+Gandaki,Myagdi,Summer,Green chili
+Gandaki,Myagdi,Summer,Eggplant (Brinjal)
+Gandaki,Myagdi,Summer,Tomato
+Gandaki,Myagdi,Summer,Yardlong bean (Snake bean)
+Gandaki,Myagdi,Summer,Cowpea
+Gandaki,Myagdi,Summer,Amaranth
+Gandaki,Nawalpur,Kharif,Rice
+Gandaki,Nawalpur,Kharif,Maize
+Gandaki,Nawalpur,Kharif,Millet
+Gandaki,Nawalpur,Kharif,Soybean
+Gandaki,Nawalpur,Kharif,Green gram (Moong dal)
+Gandaki,Nawalpur,Kharif,Black gram (Urad dal)
+Gandaki,Nawalpur,Kharif,Pigeon pea
+Gandaki,Nawalpur,Kharif,Sesame
+Gandaki,Nawalpur,Rabi,Wheat
+Gandaki,Nawalpur,Rabi,Barley
+Gandaki,Nawalpur,Rabi,Mustard
+Gandaki,Nawalpur,Rabi,Lentils
+Gandaki,Nawalpur,Rabi,Chickpeas
+Gandaki,Nawalpur,Rabi,Potatoes
+Gandaki,Nawalpur,Rabi,Onions
+Gandaki,Nawalpur,Rabi,Garlic
+Gandaki,Nawalpur,Rabi,Cabbage
+Gandaki,Nawalpur,Rabi,Cauliflower
+Gandaki,Nawalpur,Rabi,Carrots
+Gandaki,Nawalpur,Rabi,Radishes
+Gandaki,Nawalpur,Rabi,Spinach
+Gandaki,Nawalpur,Rabi,Coriander
+Gandaki,Nawalpur,Rabi,Fennel
+Gandaki,Nawalpur,Rabi,Turnips
+Gandaki,Nawalpur,Rabi,Lettuce
+Gandaki,Nawalpur,Rabi,Beets
+Gandaki,Nawalpur,Summer,Maize
+Gandaki,Nawalpur,Summer,Cucumber
+Gandaki,Nawalpur,Summer,Bottle gourd
+Gandaki,Nawalpur,Summer,Bitter gourd
+Gandaki,Nawalpur,Summer,Sponge gourd
+Gandaki,Nawalpur,Summer,Pumpkin
+Gandaki,Nawalpur,Summer,Okra (Lady's finger)
+Gandaki,Nawalpur,Summer,Green chili
+Gandaki,Nawalpur,Summer,Eggplant (Brinjal)
+Gandaki,Nawalpur,Summer,Tomato
+Gandaki,Nawalpur,Summer,Yardlong bean (Snake bean)
+Gandaki,Nawalpur,Summer,Cowpea
+Gandaki,Nawalpur,Summer,Amaranth
+Gandaki,Parbat,Kharif,Rice
+Gandaki,Parbat,Kharif,Maize
+Gandaki,Parbat,Kharif,Millet
+Gandaki,Parbat,Kharif,Soybean
+Gandaki,Parbat,Kharif,Green gram (Moong dal)
+Gandaki,Parbat,Kharif,Black gram (Urad dal)
+Gandaki,Parbat,Kharif,Pigeon pea
+Gandaki,Parbat,Kharif,Sesame
+Gandaki,Parbat,Rabi,Wheat
+Gandaki,Parbat,Rabi,Barley
+Gandaki,Parbat,Rabi,Mustard
+Gandaki,Parbat,Rabi,Lentils
+Gandaki,Parbat,Rabi,Chickpeas
+Gandaki,Parbat,Rabi,Potatoes
+Gandaki,Parbat,Rabi,Onions
+Gandaki,Parbat,Rabi,Garlic
+Gandaki,Parbat,Rabi,Cabbage
+Gandaki,Parbat,Rabi,Cauliflower
+Gandaki,Parbat,Rabi,Carrots
+Gandaki,Parbat,Rabi,Radishes
+Gandaki,Parbat,Rabi,Spinach
+Gandaki,Parbat,Rabi,Coriander
+Gandaki,Parbat,Rabi,Fennel
+Gandaki,Parbat,Rabi,Turnips
+Gandaki,Parbat,Rabi,Lettuce
+Gandaki,Parbat,Rabi,Beets
+Gandaki,Parbat,Summer,Maize
+Gandaki,Parbat,Summer,Cucumber
+Gandaki,Parbat,Summer,Bottle gourd
+Gandaki,Parbat,Summer,Bitter gourd
+Gandaki,Parbat,Summer,Sponge gourd
+Gandaki,Parbat,Summer,Pumpkin
+Gandaki,Parbat,Summer,Okra (Lady's finger)
+Gandaki,Parbat,Summer,Green chili
+Gandaki,Parbat,Summer,Eggplant (Brinjal)
+Gandaki,Parbat,Summer,Tomato
+Gandaki,Parbat,Summer,Yardlong bean (Snake bean)
+Gandaki,Parbat,Summer,Cowpea
+Gandaki,Parbat,Summer,Amaranth
+Gandaki,Syangja,Kharif,Rice
+Gandaki,Syangja,Kharif,Maize
+Gandaki,Syangja,Kharif,Millet
+Gandaki,Syangja,Kharif,Soybean
+Gandaki,Syangja,Kharif,Green gram (Moong dal)
+Gandaki,Syangja,Kharif,Black gram (Urad dal)
+Gandaki,Syangja,Kharif,Pigeon pea
+Gandaki,Syangja,Kharif,Sesame
+Gandaki,Syangja,Rabi,Wheat
+Gandaki,Syangja,Rabi,Barley
+Gandaki,Syangja,Rabi,Mustard
+Gandaki,Syangja,Rabi,Lentils
+Gandaki,Syangja,Rabi,Chickpeas
+Gandaki,Syangja,Rabi,Potatoes
+Gandaki,Syangja,Rabi,Onions
+Gandaki,Syangja,Rabi,Garlic
+Gandaki,Syangja,Rabi,Cabbage
+Gandaki,Syangja,Rabi,Cauliflower
+Gandaki,Syangja,Rabi,Carrots
+Gandaki,Syangja,Rabi,Radishes
+Gandaki,Syangja,Rabi,Spinach
+Gandaki,Syangja,Rabi,Coriander
+Gandaki,Syangja,Rabi,Fennel
+Gandaki,Syangja,Rabi,Turnips
+Gandaki,Syangja,Rabi,Lettuce
+Gandaki,Syangja,Rabi,Beets
+Gandaki,Syangja,Summer,Maize
+Gandaki,Syangja,Summer,Cucumber
+Gandaki,Syangja,Summer,Bottle gourd
+Gandaki,Syangja,Summer,Bitter gourd
+Gandaki,Syangja,Summer,Sponge gourd
+Gandaki,Syangja,Summer,Pumpkin
+Gandaki,Syangja,Summer,Okra (Lady's finger)
+Gandaki,Syangja,Summer,Green chili
+Gandaki,Syangja,Summer,Eggplant (Brinjal)
+Gandaki,Syangja,Summer,Tomato
+Gandaki,Syangja,Summer,Yardlong bean (Snake bean)
+Gandaki,Syangja,Summer,Cowpea
+Gandaki,Syangja,Summer,Amaranth
+Gandaki,Tanahun,Kharif,Rice
+Gandaki,Tanahun,Kharif,Maize
+Gandaki,Tanahun,Kharif,Millet
+Gandaki,Tanahun,Rabi,Wheat
+Gandaki,Tanahun,Rabi,Barley
+Gandaki,Tanahun,Rabi,Mustard
+Gandaki,Tanahun,Rabi,Lentils
+Gandaki,Tanahun,Rabi,Chickpeas
+Gandaki,Tanahun,Rabi,Potatoes
+Gandaki,Tanahun,Rabi,Onions
+Gandaki,Tanahun,Rabi,Garlic
+Gandaki,Tanahun,Rabi,Cabbage
+Gandaki,Tanahun,Rabi,Cauliflower
+Gandaki,Tanahun,Rabi,Carrots
+Gandaki,Tanahun,Rabi,Radishes
+Gandaki,Tanahun,Rabi,Spinach
+Gandaki,Tanahun,Rabi,Coriander
+Gandaki,Tanahun,Summer,Maize
+Gandaki,Tanahun,Summer,Cucumber
+Gandaki,Tanahun,Summer,Bottle gourd
+Gandaki,Tanahun,Summer,Bitter gourd
+Gandaki,Tanahun,Summer,Sponge gourd
+Gandaki,Tanahun,Summer,Pumpkin
+Gandaki,Tanahun,Summer,Okra (Lady's finger)
+Gandaki,Tanahun,Summer,Green chili
+Gandaki,Tanahun,Summer,Eggplant (Brinjal)
+Gandaki,Tanahun,Summer,Tomato
+Lumbini,Kapilvastu,Kharif,Rice
+Lumbini,Kapilvastu,Kharif,Maize
+Lumbini,Kapilvastu,Kharif,Wheat
+Lumbini,Kapilvastu,Kharif,Soybeans
+Lumbini,Kapilvastu,Kharif,Groundnuts
+Lumbini,Kapilvastu,Kharif,Sugarcane
+Lumbini,Kapilvastu,Rabi,Mustard
+Lumbini,Kapilvastu,Rabi,Lentils
+Lumbini,Kapilvastu,Rabi,Peas
+Lumbini,Kapilvastu,Rabi,Potatoes
+Lumbini,Kapilvastu,Rabi,Onion
+Lumbini,Kapilvastu,Rabi,Cabbage
+Lumbini,Kapilvastu,Rabi,Cauliflower
+Lumbini,Kapilvastu,Summer,Cucumbers
+Lumbini,Kapilvastu,Summer,Tomatoes
+Lumbini,Kapilvastu,Summer,Bitter Gourd
+Lumbini,Kapilvastu,Summer,Bottle Gourd
+Lumbini,Kapilvastu,Summer,Sponge Gourd
+Lumbini,Kapilvastu,Summer,Okra
+Lumbini,Rupandehi,Kharif,Rice
+Lumbini,Rupandehi,Kharif,Maize
+Lumbini,Rupandehi,Kharif,Wheat
+Lumbini,Rupandehi,Kharif,Soybeans
+Lumbini,Rupandehi,Kharif,Groundnuts
+Lumbini,Rupandehi,Kharif,Sugarcane
+Lumbini,Rupandehi,Rabi,Mustard
+Lumbini,Rupandehi,Rabi,Lentils
+Lumbini,Rupandehi,Rabi,Peas
+Lumbini,Rupandehi,Rabi,Potatoes
+Lumbini,Rupandehi,Rabi,Onion
+Lumbini,Rupandehi,Rabi,Cabbage
+Lumbini,Rupandehi,Rabi,Cauliflower
+Lumbini,Rupandehi,Summer,Cucumbers
+Lumbini,Rupandehi,Summer,Tomatoes
+Lumbini,Rupandehi,Summer,Bitter Gourd
+Lumbini,Rupandehi,Summer,Bottle Gourd
+Lumbini,Rupandehi,Summer,Sponge Gourd
+Lumbini,Rupandehi,Summer,Okra
+Lumbini,Nawalparasi,Kharif,Rice
+Lumbini,Nawalparasi,Kharif,Maize
+Lumbini,Nawalparasi,Kharif,Wheat
+Lumbini,Nawalparasi,Kharif,Soybeans
+Lumbini,Nawalparasi,Kharif,Groundnuts
+Lumbini,Nawalparasi,Kharif,Sugarcane
+Lumbini,Nawalparasi,Rabi,Mustard
+Lumbini,Nawalparasi,Rabi,Lentils
+Lumbini,Nawalparasi,Rabi,Peas
+Lumbini,Nawalparasi,Rabi,Potatoes
+Lumbini,Nawalparasi,Rabi,Onion
+Lumbini,Nawalparasi,Rabi,Cabbage
+Lumbini,Nawalparasi,Rabi,Cauliflower
+Lumbini,Nawalparasi,Summer,Cucumbers
+Lumbini,Nawalparasi,Summer,Tomatoes
+Lumbini,Nawalparasi,Summer,Bitter Gourd
+Lumbini,Nawalparasi,Summer,Bottle Gourd
+Lumbini,Nawalparasi,Summer,Sponge Gourd
+Lumbini,Nawalparasi,Summer,Okra
+Lumbini,Arghakhanchi,Kharif,Rice
+Lumbini,Arghakhanchi,Kharif,Maize
+Lumbini,Arghakhanchi,Kharif,Soybeans
+Lumbini,Arghakhanchi,Kharif,Wheat
+Lumbini,Arghakhanchi,Rabi,Mustard
+Lumbini,Arghakhanchi,Rabi,Lentils
+Lumbini,Arghakhanchi,Rabi,Peas
+Lumbini,Arghakhanchi,Rabi,Potatoes
+Lumbini,Arghakhanchi,Rabi,Onion
+Lumbini,Arghakhanchi,Summer,Cucumbers
+Lumbini,Arghakhanchi,Summer,Tomatoes
+Lumbini,Arghakhanchi,Summer,Bitter Gourd
+Lumbini,Arghakhanchi,Summer,Bottle Gourd
+Lumbini,Arghakhanchi,Summer,Sponge Gourd
+Lumbini,Palpa,Kharif,Rice
+Lumbini,Palpa,Kharif,Maize
+Lumbini,Palpa,Kharif,Wheat
+Lumbini,Palpa,Kharif,Soybeans
+Lumbini,Palpa,Kharif,Groundnuts
+Lumbini,Palpa,Kharif,Sugarcane
+Lumbini,Palpa,Rabi,Mustard
+Lumbini,Palpa,Rabi,Lentils
+Lumbini,Palpa,Rabi,Peas
+Lumbini,Palpa,Rabi,Potatoes
+Lumbini,Palpa,Rabi,Onion
+Lumbini,Palpa,Summer,Cucumbers
+Lumbini,Palpa,Summer,Tomatoes
+Lumbini,Palpa,Summer,Bitter Gourd
+Lumbini,Palpa,Summer,Bottle Gourd
+Lumbini,Palpa,Summer,Sponge Gourd
+Lumbini,Gulmi,Kharif,Rice
+Lumbini,Gulmi,Kharif,Maize
+Lumbini,Gulmi,Kharif,Wheat
+Lumbini,Gulmi,Kharif,Soybeans
+Lumbini,Gulmi,Kharif,Groundnuts
+Lumbini,Gulmi,Rabi,Mustard
+Lumbini,Gulmi,Rabi,Lentils
+Lumbini,Gulmi,Rabi,Peas
+Lumbini,Gulmi,Rabi,Potatoes
+Lumbini,Gulmi,Rabi,Onion
+Lumbini,Gulmi,Summer,Cucumbers
+Lumbini,Gulmi,Summer,Tomatoes
+Lumbini,Gulmi,Summer,Bitter Gourd
+Lumbini,Gulmi,Summer,Bottle Gourd
+Lumbini,Gulmi,Summer,Sponge Gourd
+Lumbini,Parasi,Kharif,Rice
+Lumbini,Parasi,Kharif,Maize
+Lumbini,Parasi,Kharif,Soybeans
+Lumbini,Parasi,Kharif,Wheat
+Lumbini,Parasi,Rabi,Mustard
+Lumbini,Parasi,Rabi,Lentils
+Lumbini,Parasi,Rabi,Peas
+Lumbini,Parasi,Rabi,Potatoes
+Lumbini,Parasi,Summer,Cucumbers
+Lumbini,Parasi,Summer,Tomatoes
+Lumbini,Parasi,Summer,Bitter Gourd
+Lumbini,Parasi,Summer,Bottle Gourd
+Lumbini,Parasi,Summer,Sponge Gourd
+Lumbini,Pyuthan,Kharif,Rice
+Lumbini,Pyuthan,Kharif,Maize
+Lumbini,Pyuthan,Kharif,Wheat
+Lumbini,Pyuthan,Kharif,Soybeans
+Lumbini,Pyuthan,Kharif,Groundnuts
+Lumbini,Pyuthan,Rabi,Mustard
+Lumbini,Pyuthan,Rabi,Lentils
+Lumbini,Pyuthan,Rabi,Peas
+Lumbini,Pyuthan,Rabi,Potatoes
+Lumbini,Pyuthan,Summer,Cucumbers
+Lumbini,Pyuthan,Summer,Tomatoes
+Lumbini,Pyuthan,Summer,Bitter Gourd
+Lumbini,Pyuthan,Summer,Bottle Gourd
+Lumbini,Pyuthan,Summer,Sponge Gourd
+Lumbini,Rolpa,Kharif,Rice
+Lumbini,Rolpa,Kharif,Maize
+Lumbini,Rolpa,Kharif,Wheat
+Lumbini,Rolpa,Kharif,Soybeans
+Lumbini,Rolpa,Rabi,Mustard
+Lumbini,Rolpa,Rabi,Lentils
+Lumbini,Rolpa,Rabi,Peas
+Lumbini,Rolpa,Rabi,Potatoes
+Lumbini,Rolpa,Summer,Cucumbers
+Lumbini,Rolpa,Summer,Tomatoes
+Lumbini,Rolpa,Summer,Bitter Gourd
+Lumbini,Rolpa,Summer,Bottle Gourd
+Lumbini,Rolpa,Summer,Sponge Gourd
+Lumbini,Dang Deukhuri,Kharif,Rice
+Lumbini,Dang Deukhuri,Kharif,Maize
+Lumbini,Dang Deukhuri,Kharif,Wheat
+Lumbini,Dang Deukhuri,Kharif,Soybeans
+Lumbini,Dang Deukhuri,Kharif,Groundnuts
+Lumbini,Dang Deukhuri,Rabi,Mustard
+Lumbini,Dang Deukhuri,Rabi,Lentils
+Lumbini,Dang Deukhuri,Rabi,Peas
+Lumbini,Dang Deukhuri,Rabi,Potatoes
+Lumbini,Dang Deukhuri,Summer,Cucumbers
+Lumbini,Dang Deukhuri,Summer,Tomatoes
+Lumbini,Dang Deukhuri,Summer,Bitter Gourd
+Lumbini,Dang Deukhuri,Summer,Bottle Gourd
+Lumbini,Dang Deukhuri,Summer,Sponge Gourd
+Lumbini,Eastern Rukum,Kharif,Rice
+Lumbini,Eastern Rukum,Kharif,Maize
+Lumbini,Eastern Rukum,Kharif,Wheat
+Lumbini,Eastern Rukum,Kharif,Soybeans
+Lumbini,Eastern Rukum,Kharif,Millet
+Lumbini,Eastern Rukum,Rabi,Mustard
+Lumbini,Eastern Rukum,Rabi,Lentils
+Lumbini,Eastern Rukum,Rabi,Peas
+Lumbini,Eastern Rukum,Rabi,Potatoes
+Lumbini,Eastern Rukum,Summer,Cucumbers
+Lumbini,Eastern Rukum,Summer,Tomatoes
+Lumbini,Eastern Rukum,Summer,Bitter Gourd
+Lumbini,Eastern Rukum,Summer,Bottle Gourd
+Lumbini,Eastern Rukum,Summer,Sponge Gourd
+Lumbini,Banke,Kharif,Rice
+Lumbini,Banke,Kharif,Maize
+Lumbini,Banke,Kharif,Wheat
+Lumbini,Banke,Kharif,Soybeans
+Lumbini,Banke,Kharif,Groundnuts
+Lumbini,Banke,Rabi,Mustard
+Lumbini,Banke,Rabi,Lentils
+Lumbini,Banke,Rabi,Peas
+Lumbini,Banke,Rabi,Potatoes
+Lumbini,Banke,Summer,Cucumbers
+Lumbini,Banke,Summer,Tomatoes
+Lumbini,Banke,Summer,Bitter Gourd
+Lumbini,Banke,Summer,Bottle Gourd
+Lumbini,Banke,Summer,Sponge Gourd
+Lumbini,Bardiya,Kharif,Rice
+Lumbini,Bardiya,Kharif,Maize
+Lumbini,Bardiya,Kharif,Wheat
+Lumbini,Bardiya,Kharif,Soybeans
+Lumbini,Bardiya,Kharif,Groundnuts
+Lumbini,Bardiya,Rabi,Mustard
+Lumbini,Bardiya,Rabi,Lentils
+Lumbini,Bardiya,Rabi,Peas
+Lumbini,Bardiya,Rabi,Potatoes
+Lumbini,Bardiya,Summer,Cucumbers
+Lumbini,Bardiya,Summer,Tomatoes
+Lumbini,Bardiya,Summer,Bitter Gourd
+Lumbini,Bardiya,Summer,Bottle Gourd
+Lumbini,Bardiya,Summer,Sponge Gourd
+Karnali,Jumla,Kharif,Rice
+Karnali,Jumla,Kharif,Maize
+Karnali,Jumla,Kharif,Buckwheat
+Karnali,Jumla,Kharif,Millet
+Karnali,Jumla,Kharif,Potatoes
+Karnali,Jumla,Rabi,Wheat
+Karnali,Jumla,Rabi,Barley
+Karnali,Jumla,Rabi,Mustard
+Karnali,Jumla,Rabi,Lentils
+Karnali,Jumla,Rabi,Peas
+Karnali,Jumla,Rabi,Beans
+Karnali,Jumla,Summer,Cucumbers
+Karnali,Jumla,Summer,Tomatoes
+Karnali,Jumla,Summer,Bottle Gourd
+Karnali,Jumla,Summer,Sponge Gourd
+Karnali,Kalikot,Kharif,Rice
+Karnali,Kalikot,Kharif,Maize
+Karnali,Kalikot,Kharif,Buckwheat
+Karnali,Kalikot,Kharif,Millet
+Karnali,Kalikot,Kharif,Potatoes
+Karnali,Kalikot,Rabi,Wheat
+Karnali,Kalikot,Rabi,Barley
+Karnali,Kalikot,Rabi,Mustard
+Karnali,Kalikot,Rabi,Lentils
+Karnali,Kalikot,Rabi,Peas
+Karnali,Kalikot,Rabi,Beans
+Karnali,Kalikot,Summer,Cucumbers
+Karnali,Kalikot,Summer,Tomatoes
+Karnali,Kalikot,Summer,Bottle Gourd
+Karnali,Kalikot,Summer,Sponge Gourd
+Karnali,Mugu,Kharif,Rice
+Karnali,Mugu,Kharif,Maize
+Karnali,Mugu,Kharif,Buckwheat
+Karnali,Mugu,Kharif,Millet
+Karnali,Mugu,Kharif,Potatoes
+Karnali,Mugu,Rabi,Wheat
+Karnali,Mugu,Rabi,Barley
+Karnali,Mugu,Rabi,Mustard
+Karnali,Mugu,Rabi,Lentils
+Karnali,Mugu,Rabi,Peas
+Karnali,Mugu,Rabi,Beans
+Karnali,Mugu,Summer,Cucumbers
+Karnali,Mugu,Summer,Tomatoes
+Karnali,Mugu,Summer,Bottle Gourd
+Karnali,Mugu,Summer,Sponge Gourd
+Karnali,Humla,Kharif,Rice
+Karnali,Humla,Kharif,Maize
+Karnali,Humla,Kharif,Buckwheat
+Karnali,Humla,Kharif,Millet
+Karnali,Humla,Kharif,Potatoes
+Karnali,Humla,Rabi,Wheat
+Karnali,Humla,Rabi,Barley
+Karnali,Humla,Rabi,Mustard
+Karnali,Humla,Rabi,Lentils
+Karnali,Humla,Rabi,Peas
+Karnali,Humla,Rabi,Beans
+Karnali,Humla,Summer,Cucumbers
+Karnali,Humla,Summer,Tomatoes
+Karnali,Humla,Summer,Bottle Gourd
+Karnali,Humla,Summer,Sponge Gourd
+Karnali,Dolpa,Kharif,Rice
+Karnali,Dolpa,Kharif,Maize
+Karnali,Dolpa,Kharif,Buckwheat
+Karnali,Dolpa,Kharif,Millet
+Karnali,Dolpa,Kharif,Potatoes
+Karnali,Dolpa,Rabi,Wheat
+Karnali,Dolpa,Rabi,Barley
+Karnali,Dolpa,Rabi,Mustard
+Karnali,Dolpa,Rabi,Lentils
+Karnali,Dolpa,Rabi,Peas
+Karnali,Dolpa,Rabi,Beans
+Karnali,Dolpa,Summer,Cucumbers
+Karnali,Dolpa,Summer,Tomatoes
+Karnali,Dolpa,Summer,Bottle Gourd
+Karnali,Dolpa,Summer,Sponge Gourd
+Karnali,Jajarkot,Kharif,Rice
+Karnali,Jajarkot,Kharif,Maize
+Karnali,Jajarkot,Kharif,Millet
+Karnali,Jajarkot,Kharif,Buckwheat
+Karnali,Jajarkot,Kharif,Beans
+Karnali,Jajarkot,Kharif,Potatoes
+Karnali,Jajarkot,Rabi,Wheat
+Karnali,Jajarkot,Rabi,Barley
+Karnali,Jajarkot,Rabi,Mustard
+Karnali,Jajarkot,Rabi,Lentils
+Karnali,Jajarkot,Rabi,Peas
+Karnali,Jajarkot,Summer,Cucumbers
+Karnali,Jajarkot,Summer,Tomatoes
+Karnali,Jajarkot,Summer,Bottle Gourd
+Karnali,Jajarkot,Summer,Sponge Gourd
+Karnali,Surkhet,Kharif,Rice
+Karnali,Surkhet,Kharif,Maize
+Karnali,Surkhet,Kharif,Millet
+Karnali,Surkhet,Kharif,Buckwheat
+Karnali,Surkhet,Kharif,Soybeans
+Karnali,Surkhet,Rabi,Wheat
+Karnali,Surkhet,Rabi,Barley
+Karnali,Surkhet,Rabi,Mustard
+Karnali,Surkhet,Rabi,Lentils
+Karnali,Surkhet,Rabi,Peas
+Karnali,Surkhet,Summer,Cucumbers
+Karnali,Surkhet,Summer,Tomatoes
+Karnali,Surkhet,Summer,Bottle Gourd
+Karnali,Surkhet,Summer,Sponge Gourd
+Karnali,Dailekh,Kharif,Rice
+Karnali,Dailekh,Kharif,Maize
+Karnali,Dailekh,Kharif,Millet
+Karnali,Dailekh,Kharif,Buckwheat
+Karnali,Dailekh,Kharif,Soybeans
+Karnali,Dailekh,Rabi,Wheat
+Karnali,Dailekh,Rabi,Barley
+Karnali,Dailekh,Rabi,Mustard
+Karnali,Dailekh,Rabi,Lentils
+Karnali,Dailekh,Rabi,Peas
+Karnali,Dailekh,Summer,Cucumbers
+Karnali,Dailekh,Summer,Tomatoes
+Karnali,Dailekh,Summer,Bottle Gourd
+Karnali,Dailekh,Summer,Sponge Gourd
+Karnali,Salyan,Kharif,Rice
+Karnali,Salyan,Kharif,Maize
+Karnali,Salyan,Kharif,Millet
+Karnali,Salyan,Kharif,Soybeans
+Karnali,Salyan,Kharif,Kidney Beans
+Karnali,Salyan,Kharif,Potatoes
+Karnali,Salyan,Rabi,Wheat
+Karnali,Salyan,Rabi,Barley
+Karnali,Salyan,Rabi,Mustard
+Karnali,Salyan,Rabi,Lentils
+Karnali,Salyan,Rabi,Peas
+Karnali,Salyan,Summer,Cucumbers
+Karnali,Salyan,Summer,Tomatoes
+Karnali,Salyan,Summer,Bottle Gourd
+Karnali,Salyan,Summer,Sponge Gourd
+Karnali,Western Rukum,Kharif,Rice
+Karnali,Western Rukum,Kharif,Maize
+Karnali,Western Rukum,Kharif,Millet
+Karnali,Western Rukum,Kharif,Soybeans
+Karnali,Western Rukum,Kharif,Kidney Beans
+Karnali,Western Rukum,Kharif,Potatoes
+Karnali,Western Rukum,Rabi,Wheat
+Karnali,Western Rukum,Rabi,Barley
+Karnali,Western Rukum,Rabi,Mustard
+Karnali,Western Rukum,Rabi,Lentils
+Karnali,Western Rukum,Rabi,Peas
+Karnali,Western Rukum,Summer,Cucumbers
+Karnali,Western Rukum,Summer,Tomatoes
+Karnali,Western Rukum,Summer,Bottle Gourd
+Karnali,Western Rukum,Summer,Sponge Gourd
+Sudurpaschim,Achham,Kharif,Rice
+Sudurpaschim,Achham,Kharif,Maize
+Sudurpaschim,Achham,Kharif,Millet
+Sudurpaschim,Achham,Kharif,Soybeans
+Sudurpaschim,Achham,Rabi,Wheat
+Sudurpaschim,Achham,Rabi,Barley
+Sudurpaschim,Achham,Rabi,Mustard
+Sudurpaschim,Achham,Rabi,Lentils
+Sudurpaschim,Achham,Summer,Cucumbers
+Sudurpaschim,Achham,Summer,Tomatoes
+Sudurpaschim,Achham,Summer,Bottle Gourd
+Sudurpaschim,Achham,Summer,Sponge Gourd
+Sudurpaschim,Bajhang,Kharif,Rice
+Sudurpaschim,Bajhang,Kharif,Maize
+Sudurpaschim,Bajhang,Kharif,Millet
+Sudurpaschim,Bajhang,Kharif,Soybeans
+Sudurpaschim,Bajhang,Rabi,Wheat
+Sudurpaschim,Bajhang,Rabi,Barley
+Sudurpaschim,Bajhang,Rabi,Mustard
+Sudurpaschim,Bajhang,Rabi,Lentils
+Sudurpaschim,Bajhang,Summer,Cucumbers
+Sudurpaschim,Bajhang,Summer,Tomatoes
+Sudurpaschim,Bajhang,Summer,Bottle Gourd
+Sudurpaschim,Bajhang,Summer,Sponge Gourd
+Sudurpaschim,Baitadi,Kharif,Rice
+Sudurpaschim,Baitadi,Kharif,Maize
+Sudurpaschim,Baitadi,Kharif,Millet
+Sudurpaschim,Baitadi,Kharif,Soybeans
+Sudurpaschim,Baitadi,Rabi,Wheat
+Sudurpaschim,Baitadi,Rabi,Barley
+Sudurpaschim,Baitadi,Rabi,Mustard
+Sudurpaschim,Baitadi,Rabi,Lentils
+Sudurpaschim,Baitadi,Summer,Cucumbers
+Sudurpaschim,Baitadi,Summer,Tomatoes
+Sudurpaschim,Baitadi,Summer,Bottle Gourd
+Sudurpaschim,Baitadi,Summer,Sponge Gourd
+Sudurpaschim,Bajura,Kharif,Rice
+Sudurpaschim,Bajura,Kharif,Maize
+Sudurpaschim,Bajura,Kharif,Millet
+Sudurpaschim,Bajura,Kharif,Soybeans
+Sudurpaschim,Bajura,Rabi,Wheat
+Sudurpaschim,Bajura,Rabi,Barley
+Sudurpaschim,Bajura,Rabi,Mustard
+Sudurpaschim,Bajura,Rabi,Lentils
+Sudurpaschim,Bajura,Summer,Cucumbers
+Sudurpaschim,Bajura,Summer,Tomatoes
+Sudurpaschim,Bajura,Summer,Bottle Gourd
+Sudurpaschim,Bajura,Summer,Sponge Gourd
+Sudurpaschim,Dadeldhura,Kharif,Rice
+Sudurpaschim,Dadeldhura,Kharif,Maize
+Sudurpaschim,Dadeldhura,Kharif,Millet
+Sudurpaschim,Dadeldhura,Kharif,Soybeans
+Sudurpaschim,Dadeldhura,Rabi,Wheat
+Sudurpaschim,Dadeldhura,Rabi,Barley
+Sudurpaschim,Dadeldhura,Rabi,Mustard
+Sudurpaschim,Dadeldhura,Rabi,Lentils
+Sudurpaschim,Dadeldhura,Summer,Cucumbers
+Sudurpaschim,Dadeldhura,Summer,Tomatoes
+Sudurpaschim,Dadeldhura,Summer,Bottle Gourd
+Sudurpaschim,Dadeldhura,Summer,Sponge Gourd
+Sudurpaschim,Darchula,Kharif,Rice
+Sudurpaschim,Darchula,Kharif,Maize
+Sudurpaschim,Darchula,Kharif,Millet
+Sudurpaschim,Darchula,Kharif,Soybeans
+Sudurpaschim,Darchula,Rabi,Wheat
+Sudurpaschim,Darchula,Rabi,Barley
+Sudurpaschim,Darchula,Rabi,Mustard
+Sudurpaschim,Darchula,Rabi,Lentils
+Sudurpaschim,Darchula,Summer,Cucumbers
+Sudurpaschim,Darchula,Summer,Tomatoes
+Sudurpaschim,Darchula,Summer,Bottle Gourd
+Sudurpaschim,Darchula,Summer,Sponge Gourd
+Sudurpaschim,Doti,Kharif,Rice
+Sudurpaschim,Doti,Kharif,Maize
+Sudurpaschim,Doti,Kharif,Millet
+Sudurpaschim,Doti,Kharif,Soybeans
+Sudurpaschim,Doti,Rabi,Wheat
+Sudurpaschim,Doti,Rabi,Barley
+Sudurpaschim,Doti,Rabi,Mustard
+Sudurpaschim,Doti,Rabi,Lentils
+Sudurpaschim,Doti,Summer,Cucumbers
+Sudurpaschim,Doti,Summer,Tomatoes
+Sudurpaschim,Doti,Summer,Bottle Gourd
+Sudurpaschim,Doti,Summer,Sponge Gourd
+Sudurpaschim,Kailali,Kharif,Rice
+Sudurpaschim,Kailali,Kharif,Maize
+Sudurpaschim,Kailali,Kharif,Millet
+Sudurpaschim,Kailali,Kharif,Soybeans
+Sudurpaschim,Kailali,Rabi,Wheat
+Sudurpaschim,Kailali,Rabi,Barley
+Sudurpaschim,Kailali,Rabi,Mustard
+Sudurpaschim,Kailali,Rabi,Lentils
+Sudurpaschim,Kailali,Summer,Cucumbers
+Sudurpaschim,Kailali,Summer,Tomatoes
+Sudurpaschim,Kailali,Summer,Bottle Gourd
+Sudurpaschim,Kailali,Summer,Sponge Gourd
+Sudurpaschim,Kanchanpur,Kharif,Rice
+Sudurpaschim,Kanchanpur,Kharif,Maize
+Sudurpaschim,Kanchanpur,Kharif,Millet
+Sudurpaschim,Kanchanpur,Kharif,Soybeans
+Sudurpaschim,Kanchanpur,Rabi,Wheat
+Sudurpaschim,Kanchanpur,Rabi,Barley
+Sudurpaschim,Kanchanpur,Rabi,Mustard
+Sudurpaschim,Kanchanpur,Rabi,Lentils
+Sudurpaschim,Kanchanpur,Summer,Cucumbers
+Sudurpaschim,Kanchanpur,Summer,Tomatoes
+Sudurpaschim,Kanchanpur,Summer,Bottle Gourd
+Sudurpaschim,Kanchanpur,Summer,Sponge Gourd
