@@ -1,33 +1,38 @@
-FROM php:8.1-apache-bullseye
+FROM php:8.2-apache
 
-# Install Python 3 and minimal PHP build deps
+WORKDIR /var/www/html
+
+# Install system dependencies and PHP build dependencies
 RUN apt-get update \
-    && apt-get install -y --no-install-recommends \
-        python3 \
-        python3-pip \
+    && apt-get install -y \
+        build-essential \
+        pkg-config \
         libpng-dev \
-        libjpeg62-turbo-dev \
+        libjpeg-dev \
         libfreetype6-dev \
+        libwebp-dev \
+        libzip-dev \
         libonig-dev \
-        libxml2-dev \
+        zip \
+        unzip \
+        git \
+        curl \
+    && docker-php-ext-configure gd \
+        --with-freetype \
+        --with-jpeg \
+        --with-webp \
+    && docker-php-ext-install -j$(nproc) gd mysqli pdo_mysql mbstring zip \
+    && a2enmod rewrite \
+    && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
-# PHP extensions needed by the app (including mysqli)
-RUN docker-php-ext-configure gd --with-freetype --with-jpeg \
-    && docker-php-ext-install -j"$(nproc)" gd pdo_mysql mysqli mbstring
-
-# Enable URL rewriting
-RUN a2enmod rewrite
-
-# Python ML dependencies
-COPY farmer/requirements.txt /tmp/requirements.txt
-RUN pip3 install --no-cache-dir -r /tmp/requirements.txt
-
-# Copy application code
-WORKDIR /var/www/html
+# Copy project files
 COPY . /var/www/html/
+
+# Set permissions
+RUN chown -R www-data:www-data /var/www/html \
+    && chmod -R 755 /var/www/html
 
 EXPOSE 9003
 
 CMD ["apache2-foreground"]
-

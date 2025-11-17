@@ -1,34 +1,24 @@
+version: "3.9"
+
 services:
   web:
     build: .
+    container_name: smart-farm-app
     ports:
-      - "9003:80"
+      - "8080:80"
     volumes:
-      - ./:/var/www/html
-    env_file:
-      - .env
-    environment:
-      DB_HOST: db
+      - .:/var/www/html
     depends_on:
       - db
-    restart: unless-stopped
 
   db:
-    image: mariadb:10.6
-    env_file:
-      - .env
+    image: mysql:8.0
+    container_name: smart-farm-db
     environment:
-      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:-rootpassword}
-      MYSQL_DATABASE: ${DB_NAME:-agriculture_portal}
-      MYSQL_USER: ${DB_USER:-aguser}
-      MYSQL_PASSWORD: ${DB_PASSWORD:-Bipinsingh1}
+      MYSQL_ROOT_PASSWORD: rootpassword
+      MYSQL_DATABASE: agriculture_portal
+      MYSQL_USER: aguser
+      MYSQL_PASSWORD: Bipinsingh1
     ports:
       - "3307:3306"
-    volumes:
-      - db_data:/var/lib/mysql
-      - ./db/agriculture_portal.sql:/docker-entrypoint-initdb.d/init.sql
-    restart: unless-stopped
-
-volumes:
-  db_data:
-
+    command: --default-authentication-plugin=mysql_native_password
