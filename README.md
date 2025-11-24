@@ -68,10 +68,7 @@
 - ANNUAL
 
 **Quick snapshot of the website:**
-![profile](https://github.com/ashish-sapkota2/farmease/assets/67455612/eaec2664-d8f5-45d0-825e-2035e4cee8dc)
-![rainfall](https://github.com/ashish-sapkota2/farmease/assets/67455612/a8c854b9-fed7-439c-95aa-8a43dad7ac44)
-![crop](https://github.com/ashish-sapkota2/farmease/assets/67455612/f76c1535-9b0c-4fb4-8176-f0b7721c7b98)
-![cropss](https://github.com/ashish-sapkota2/farmease/assets/67455612/835b106a-33e3-45a9-a041-be8b3599794f)
+
 
 
 ## Installation & Setup
@@ -195,5 +192,6 @@ See `.env.example` for all available environment variables:
 - Database configuration
 - SMTP settings for email/OTP
 - API keys (OpenWeather, News API, Khalti, etc.)
+
 
 
