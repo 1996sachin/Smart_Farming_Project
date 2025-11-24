@@ -226,7 +226,7 @@ if(isset($_POST['Fert_Recommend'])){
 	// Training order: [Temparature, Humidity, Soil Moisture, Soil Type, Crop Type, Nitrogen, Potassium, Phosphorous]
 	// So pass as: T, H, SM, Soil, Crop, N, K, P
 	$command = sprintf(
-		'python3 ML/fertilizer_recommendation/fertilizer_recommendation.py %s %s %s %s %s %s %s %s 2>&1',
+		'python3 ML/fertilizer_recommendation/fertilizer_recommendation.py %s %s %s %s %s %s %s %s',
 		escapeshellarg($Jsont),      // 1. Temperature
 		escapeshellarg($Jsonh),      // 2. Humidity
 		escapeshellarg($Jsonsm),     // 3. Soil Moisture
@@ -310,22 +310,24 @@ if(isset($_POST['Fert_Recommend'])){
 	</div>
 	<div class="card-body text-dark">
 		<h4 class="mb-4 text-center">Recommended Fertilizer</h4>
-		<?php if($recommendation_processed): ?>
-		<div class="alert alert-info mb-3">
-			<small><strong>Input Parameters:</strong> N=<?= htmlspecialchars($form_n) ?>, P=<?= htmlspecialchars($form_p) ?>, K=<?= htmlspecialchars($form_k) ?>, Temp=<?= htmlspecialchars($form_t) ?>, Humidity=<?= htmlspecialchars($form_h) ?>, Soil Moisture=<?= htmlspecialchars($form_sm) ?>, Soil=<?= htmlspecialchars($form_soil) ?>, Crop=<?= htmlspecialchars($form_crop) ?></small>
-			<?php if(isset($debug_info) && !empty($debug_info)): ?>
-			<br><small class="text-muted" style="font-family: monospace; font-size: 0.85em; white-space: pre-wrap;"><strong>Model Debug Info:</strong><br><?= htmlspecialchars($debug_info) ?></small>
-			<?php endif; ?>
-		</div>
+		<?php if(isset($debug_info) && !empty($debug_info)): ?>
+			<div class="alert alert-warning mb-3">
+				<small class="text-muted" style="font-family: monospace; font-size: 0.85em; white-space: pre-wrap;">
+					<strong>Model diagnostics:</strong><br><?= htmlspecialchars($debug_info) ?>
+				</small>
+			</div>
 		<?php endif; ?>
 		<div class="chart-container" style="position: relative; height: 300px; max-width: 700px; margin: 0 auto;">
 			<canvas id="fertilizerChart"></canvas>
 		</div>
 		<div class="text-center mt-4">
-			<h5 class="text-success font-weight-bold">
+			<p class="lead mb-1 text-success font-weight-bold">
 				<i class="fas fa-check-circle"></i> Recommended Fertilizer: 
 				<span class="text-primary"><?php echo htmlspecialchars($fertilizer_recommended); ?></span>
-			</h5>
+			</p>
+			<p class="text-muted mb-0">
+				Best suited for <?= htmlspecialchars($form_crop) ?> on <?= htmlspecialchars($form_soil) ?> soil under the current field conditions.
+			</p>
 		</div>
 	</div>
 </div>

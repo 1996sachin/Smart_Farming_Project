@@ -1,115 +1,76 @@
 
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import joblib
-from collections import Counter
-import cgitb
-cgitb.enable()
+import json
 import sys
+from pathlib import Path
+
+import joblib
+import pandas as pd
 
 
+BASE_DIR = Path(__file__).resolve().parent
+MODEL_PATH = BASE_DIR / "cropprediction.pkl"
 
-header = ['Province_Name', 'District_Name', 'Season', 'Crop'] 
-
-class Question:
-    def __init__(self,column,value):
-        self.column =column
-        self.value=value
-    def match(self,example):
-        val = example[self.column]
-        return val == self.value
-    def match2(self,example):
-        if example == 'True' or example == 'true' or example == '1':
-            return True
-        else:
-            return False
-    def __repr__(self):
-        return "Is %s %s %s?" %(
-            header[self.column],"==",str(self.value))
-            
-            
-def class_counts(Data):
-    counts= {}
-    for row in Data:
-        label =row[-1]
-        if label not in counts:
-             counts[label] = 0
-        counts[label] += 1
-    return counts
+SEASON_NORMALIZATION = {
+    "kharif": "Monsoon",
+    "monsoon": "Monsoon",
+    "mansoon": "Monsoon",
+    "rabi": "Winter",
+    "winter": "Winter",
+    "summer": "Summer",
+    "zaid": "Summer",
+    "spring": "Spring",
+    "autumn": "Autumn",
+}
 
 
-class Leaf:
-    def __init__(self,Data):
-        self.predictions = class_counts(Data)
+def load_arg(index: int) -> str:
+    raw = sys.argv[index]
+    try:
+        return json.loads(raw)
+    except json.JSONDecodeError:
+        return raw
 
 
-
-class Decision_Node:
-    def __init__(self,question,true_branch,false_branch):
-        self.question=question
-        self.true_branch = true_branch
-        self.false_branch = false_branch
+def normalize_season(value: str) -> str:
+    key = value.strip().lower()
+    normalized = SEASON_NORMALIZATION.get(key, value.strip())
+    return normalized.title()
 
 
+def main() -> None:
+    model = joblib.load(MODEL_PATH)
 
+    province = load_arg(1)
+    district = load_arg(2)
+    season_input = load_arg(3)
+    season = normalize_season(season_input)
 
-def print_tree(node,spacing=""):
-    if isinstance(node,Leaf):
-        print(spacing + "Predict",node.predictions)
-        return
-    print(spacing+str(node.question))
-    print(spacing + "--> True:")
-    print_tree(node.true_branch,spacing + " ")
+    sample = pd.DataFrame(
+        [{
+            "Province_Name": province.strip(),
+            "District_Name": district.strip(),
+            "Season": season
+        }]
+    )
 
-    print(spacing + "--> False:")
-    print_tree(node.false_branch,spacing + " ")
-
-
-
-
-def print_leaf(counts):
-    total = sum(counts.values())*1.0
-    probs = {}
-    for lbl in counts.keys():
-        probs[lbl] =str(int(counts[lbl]/total * 100)) + "%"
-    return probs
-
-
-
-
-def classify(row,node):
-    if isinstance(node,Leaf):
-        return node.predictions
-    if node.question.match(row):
-        return classify(row,node.true_branch)
+    if hasattr(model, "predict_proba"):
+        probabilities = model.predict_proba(sample)[0]
+        labels = model.classes_
+        sorted_idx = probabilities.argsort()[::-1]
+        top_labels = [
+            labels[idx]
+            for idx in sorted_idx
+            if probabilities[idx] > 0
+        ][:15]
     else:
-        return classify(row,node.false_branch)
+        top_labels = model.predict(sample)
+
+    if not top_labels:
+        print("No crop recommendation found for the selected inputs.")
+        return
+
+    print(", ".join(top_labels))
 
 
-
-
-dt_model_final= joblib.load('ML/crop_prediction/cropprediction.pkl') 
-
-
-
-province =sys.argv[1]
-district=sys.argv[2]
-season=sys.argv[3]
-
-
-testing_data = [[province,district,season]]
-
-
-
-for row in testing_data:
-    #print("Actual: %s. Predicted: %s" % (row[-1],print_leaf(classify(row,dt_model_final))))
-    Predict_dict = (print_leaf(classify(row,dt_model_final))).copy()
-
-
-
-for key, value in Predict_dict.items() :
-    print (key)
-    print ("  ,  ")
-
-
+if __name__ == "__main__":
+    main()
