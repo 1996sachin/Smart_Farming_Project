@@ -1,9 +1,8 @@
 🌾 FarmEase – Smart Agriculture Assistance System
 
 FarmEase is a Machine Learning–powered agriculture support system designed to help farmers make informed decisions through predictions, recommendations, and real-time insights.
-It also includes direct crop sales with Khalti payment integration, making it a complete digital farming ecosystem.
 
-## Pre Requisites
+It also includes direct crop sales with Khalti payment integration, making it a complete digital farming ecosystem.
 
 ✨ Key Highlights
 
@@ -15,8 +14,6 @@ It also includes direct crop sales with Khalti payment integration, making it a 
 ✔️ OTP Verification via Email
 ✔️ Khalti Payment Integration
 ✔️ Dynamic farming quotes using OpenAI API
-
-
 
 📦 Prerequisites
 
@@ -44,7 +41,6 @@ Khalti API
 
 Email SMTP credentials
 
-
 🚀 Features
 🔹 Machine Learning Features
 
@@ -68,65 +64,15 @@ Email SMTP credentials
 
 💰 Khalti Payment Gateway for online crop sales
 
-
 🛠️ Technologies Used
-Category	Tech
+Category	Technologies
 Backend	Python, PHP
 Machine Learning	NumPy, Pandas, Scikit-learn
 Frontend	HTML, CSS, Bootstrap 4, JavaScript
 Database	MySQL
 APIs Used	OpenWeatherMap, NewsAPI, OpenAI, Khalti
 
-📊 Datasets
-📘 Crop Recommendation Dataset
 
-N (Nitrogen)
-
-P (Phosphorus)
-
-K (Potassium)
-
-Temperature
-
-Humidity
-
-pH
-
-Rainfall
-
-Crop Label
-
-
-📙 Fertilizer Recommendation Dataset
-
-Temperature
-
-Humidity
-
-Soil Moisture
-
-Soil Type
-
-Crop Type
-
-Nitrogen
-
-Phosphorus
-
-Potassium
-
-Fertilizer Name
-
-
-📗 Rainfall Prediction Dataset
-
-District
-
-Year
-
-Jan–Dec monthly rainfall
-
-Annual rainfall total
 
 
 **Quick snapshot of the website:**
@@ -265,6 +211,7 @@ See `.env.example` for all available environment variables:
 - Database configuration
 - SMTP settings for email/OTP
 - API keys (OpenWeather, News API, Khalti, etc.)
+
 
 
 
