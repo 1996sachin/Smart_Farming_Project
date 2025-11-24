@@ -1,4 +1,4 @@
-# FarmEase
+<img width="1878" height="1002" alt="crop prediction" src="https://github.com/user-attachments/assets/e23597c0-1258-44bb-ab79-2840311989dd" /># FarmEase
 
 - FarmEase  is a machine learning-based project designed to provide predictions and recommendations for farmers. The system uses different algorithms to predict crops, recommend fertilizers, and provide rainfall and yield predictions to help farmers make informed decisions about their crops.
 - IT also has direct crop sales to customer with real payment interface using Khalti API.
@@ -68,6 +68,17 @@
 - ANNUAL
 
 **Quick snapshot of the website:**
+![sachin](https://github.com/user-attachments/assets/b3606b44-1818-4489-81b3-9553a96d00e6)
+
+![Sunil](https://github.com/user-attachments/assets/6234974d-06a1-4d84-ab15-ce252335b4c2)
+
+![crop prediction](https://github.com/user-attachments/assets/1d428d8a-3e48-48b6-b14b-41e707b21937)
+
+![customer](https://github.com/user-attachments/assets/69d7de6d-fbb6-45e8-9c93-60c53eac7138)
+
+![khalti](https://github.com/user-attachments/assets/24178a85-befa-4290-a14f-ef2fe45c8662)
+
+
 
 
 
@@ -192,6 +203,7 @@ See `.env.example` for all available environment variables:
 - Database configuration
 - SMTP settings for email/OTP
 - API keys (OpenWeather, News API, Khalti, etc.)
+
 
 
 
