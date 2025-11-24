@@ -1,71 +1,133 @@
-<img width="1878" height="1002" alt="crop prediction" src="https://github.com/user-attachments/assets/e23597c0-1258-44bb-ab79-2840311989dd" /># FarmEase
+🌾 FarmEase – Smart Agriculture Assistance System
 
-- FarmEase  is a machine learning-based project designed to provide predictions and recommendations for farmers. The system uses different algorithms to predict crops, recommend fertilizers, and provide rainfall and yield predictions to help farmers make informed decisions about their crops.
-- IT also has direct crop sales to customer with real payment interface using Khalti API.
-- Other supporting features are Weather Forecast upto 4 days using Weather API, Agriculture realetd news using News API.
+FarmEase is a Machine Learning–powered agriculture support system designed to help farmers make informed decisions through predictions, recommendations, and real-time insights.
+It also includes direct crop sales with Khalti payment integration, making it a complete digital farming ecosystem.
 
 ## Pre Requisites
 
-## Features
-- Crop Prediction
-- Crop Recommendation
-- Fertilizer Recommendation
-- Rainfall Prediction
-- OTP Verification through mails
-- Agriculture realetd news using News API
-- Dynamically changing quotes using OpenAI's API
-- Weather Forecast upto 4 days using OpenWeatherMap API
+✨ Key Highlights
+
+✔️ ML-based Crop Prediction
+✔️ Fertilizer & Crop Recommendations
+✔️ Rainfall Prediction
+✔️ Weather Forecast (4 Days) using OpenWeatherMap
+✔️ Agriculture News Feed using News API
+✔️ OTP Verification via Email
+✔️ Khalti Payment Integration
+✔️ Dynamic farming quotes using OpenAI API
 
 
 
-## Technologies Used
-- Python
-- PHP
-- Pandas
-- NumPy
-- JavaScript
-- HTML/CSS
-- Bootstrap4
-- Scikit-learn
+📦 Prerequisites
 
-## Dataset
-### Crop Recommendation Dataset
-- N
-- P
-- K
-- Temperature
-- Humidity
-- pH
-- Rainfall
-- Label
+Before running the project, ensure you have:
 
-### Fertilizer Recommendation Dataset
-- Temparature
-- Humidity
-- Soil Moisture
-- Soil Type
-- Crop Type
-- Nitrogen
-- Phosphorous
-- Potassium
-- Fertilizer Name
+Python 3.x
 
-### Rainfall Prediction Dataset
-- DISTRICT
-- YEAR
-- JAN
-- FEB
-- MAR
-- APR
-- MAY
-- JUN
-- JUL
-- AUG
-- SEP
-- OCT
-- NOV
-- DEC
-- ANNUAL
+PHP 7+
+
+Pip & Virtual Environment
+
+XAMPP / Apache server
+
+MySQL Database
+
+API Keys:
+
+OpenAI
+
+OpenWeatherMap
+
+News API
+
+Khalti API
+
+Email SMTP credentials
+
+
+🚀 Features
+🔹 Machine Learning Features
+
+🌱 Crop Prediction (based on soil + climate data)
+
+🧪 Fertilizer Recommendation
+
+🌾 Crop Recommendation System
+
+🌧️ Rainfall Prediction
+
+🔹 User Interaction Features
+
+🔐 Email OTP Verification
+
+🌥️ 4-Day Weather Forecast
+
+📰 Latest Agriculture News Feed
+
+💬 Dynamic Quotes (OpenAI)
+
+💰 Khalti Payment Gateway for online crop sales
+
+
+🛠️ Technologies Used
+Category	Tech
+Backend	Python, PHP
+Machine Learning	NumPy, Pandas, Scikit-learn
+Frontend	HTML, CSS, Bootstrap 4, JavaScript
+Database	MySQL
+APIs Used	OpenWeatherMap, NewsAPI, OpenAI, Khalti
+
+📊 Datasets
+📘 Crop Recommendation Dataset
+
+N (Nitrogen)
+
+P (Phosphorus)
+
+K (Potassium)
+
+Temperature
+
+Humidity
+
+pH
+
+Rainfall
+
+Crop Label
+
+
+📙 Fertilizer Recommendation Dataset
+
+Temperature
+
+Humidity
+
+Soil Moisture
+
+Soil Type
+
+Crop Type
+
+Nitrogen
+
+Phosphorus
+
+Potassium
+
+Fertilizer Name
+
+
+📗 Rainfall Prediction Dataset
+
+District
+
+Year
+
+Jan–Dec monthly rainfall
+
+Annual rainfall total
+
 
 **Quick snapshot of the website:**
 ![sachin](https://github.com/user-attachments/assets/b3606b44-1818-4489-81b3-9553a96d00e6)
@@ -203,6 +265,7 @@ See `.env.example` for all available environment variables:
 - Database configuration
 - SMTP settings for email/OTP
 - API keys (OpenWeather, News API, Khalti, etc.)
+
 
 
 
