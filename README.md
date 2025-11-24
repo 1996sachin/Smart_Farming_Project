@@ -4,7 +4,7 @@ FarmEase is a Machine Learning–powered agriculture support system designed to 
 
 It also includes direct crop sales with Khalti payment integration, making it a complete digital farming ecosystem.
 <br>
-
+<br>
 ✨ Key Highlights
 
 ✔️ ML-based Crop Prediction
@@ -16,6 +16,7 @@ It also includes direct crop sales with Khalti payment integration, making it a 
 ✔️ Khalti Payment Integration
 ✔️ Dynamic farming quotes using OpenAI API
 
+<br>
 <br>
 📦 Prerequisites
 
@@ -44,6 +45,7 @@ Khalti API
 Email SMTP credentials
 
 <br>
+<br>
 
 🚀 Features
 🔹 Machine Learning Features
@@ -69,6 +71,7 @@ Email SMTP credentials
 💰 Khalti Payment Gateway for online crop sales
 
 <br>
+<br>
 🛠️ Technologies Used
 Category	Technologies
 Backend	Python, PHP
@@ -78,7 +81,7 @@ Database	MySQL
 APIs Used	OpenWeatherMap, NewsAPI, OpenAI, Khalti
 
 <br>
-
+<br>
 
 **Quick snapshot of the website:**
 ![sachin](https://github.com/user-attachments/assets/b3606b44-1818-4489-81b3-9553a96d00e6)
@@ -216,6 +219,7 @@ See `.env.example` for all available environment variables:
 - Database configuration
 - SMTP settings for email/OTP
 - API keys (OpenWeather, News API, Khalti, etc.)
+
 
 
 
