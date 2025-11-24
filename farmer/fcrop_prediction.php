@@ -91,10 +91,11 @@ $query4 = "SELECT * from farmerlogin where email='$user_check'";
 									
 													<select name="Season" class="form-control" required>
 													<option value="">Select Season ...</option>
-													<option name="Kharif" value="Kharif">Kharif</option>
-													<option name="Rabi" value="Rabi">Rabi</option>
-													<option name="Summer" value="Summer">Summer</option>
-												
+													<option value="Summer">Summer</option>
+													<option value="Winter">Winter</option>
+													<option value="Monsoon">Monsoon</option>
+													<option value="Autumn">Autumn</option>
+													<option value="Spring">Spring</option>
 													</select>
 										</div>
 
@@ -137,7 +138,12 @@ $query4 = "SELECT * from farmerlogin where email='$user_check'";
 					$JsonDistrict=json_encode($district);
 					$JsonSeason=json_encode($season);
 					
-					$command = escapeshellcmd("python3 ML/crop_prediction/ZDecision_Tree_Model_Call.py $JsonState $JsonDistrict $JsonSeason");
+					$command = sprintf(
+						'python3 ML/crop_prediction/ZDecision_Tree_Model_Call.py %s %s %s',
+						escapeshellarg($JsonState),
+						escapeshellarg($JsonDistrict),
+						escapeshellarg($JsonSeason)
+					);
                     $output = passthru($command);
 					echo $output;					
 					}
